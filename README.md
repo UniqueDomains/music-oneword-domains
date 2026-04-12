@@ -1,22 +1,22 @@
-# Available .MUSIC One-Word Domains (5,621,926)
+# Available .MUSIC One-Word Domains (9,602)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C602%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-5%2C621%2C926%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C602%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated public extract of available and resale .music one-word domains from Unique Domains.
+Daily-updated dataset of available and resale .music one-word domains from Unique Domains.
 
-> **Important:** this repository is a **public 9,602-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **5,621,926 domains** on the canonical page below.
+> **Note:** this repository currently mirrors the full live catalog for this exact search.
+> Unique Domains counts can still change as the search refreshes.
 
-**Public extract:** 9,602 rows · **Live catalog:** 5,621,926 domains
+**Public extract:** 9,602 rows · **Live catalog:** 9,602 domains
 
-**Last updated:** 2026-04-10  
+**Last updated:** 2026-04-12  
 **Canonical page:** `https://unique.domains/domains/tld/music`  
 **Best for:** founders, investors, studios
 
@@ -71,16 +71,16 @@ print(df.head())
 | bless.music      | resell    | —         | —             | 78             | 23     | 5      | Dynadot, LLC |
 | coral.music      | premium   | $1,248.75 | $46.25        | 68             | 34     | 5      | name.com     |
 | athletics.music  | available | $52.48    | —             | 69             | 52     | 9      | namecheap    |
-| able.music       | premium   | $123.75   | $46.25        | 80             | 33     | 4      | name.com     |
-| property.music   | available | $52.48    | —             | 90             | 39     | 8      | namecheap    |
-| active.music     | premium   | $123.75   | $46.25        | 104            | 32     | 6      | name.com     |
-| gather.music     | available | $13.99    | $74.99        | 96             | 38     | 6      | name.com     |
 | medical.music    | premium   | $123.75   | $46.25        | 100            | 32     | 7      | name.com     |
+| property.music   | available | $52.48    | —             | 90             | 39     | 8      | namecheap    |
+| able.music       | premium   | $123.75   | $46.25        | 80             | 32     | 4      | name.com     |
+| gather.music     | available | $13.99    | $74.99        | 96             | 38     | 6      | name.com     |
+| active.music     | premium   | $123.75   | $46.25        | 104            | 30     | 6      | name.com     |
 | unify.music      | available | $13.99    | $74.99        | 72             | 38     | 5      | name.com     |
 | damn.music       | premium   | $1,250    | $1,250        | 140            | 24     | 4      | name.com     |
 | risk.music       | available | $52.48    | —             | 62             | 38     | 4      | namecheap    |
 | patient.music    | premium   | $1,298.70 | $48.10        | 68             | 22     | 7      | namecheap    |
-| dental.music     | available | $13.99    | $74.99        | 90             | 37     | 6      | name.com     |
+| dental.music     | available | $13.99    | $74.99        | 90             | 36     | 6      | name.com     |
 | pasta.music      | premium   | $128.70   | $48.10        | 68             | 21     | 5      | namecheap    |
 | nimble.music     | available | $13.99    | $74.99        | 94             | 33     | 6      | name.com     |
 | nail.music       | premium   | $248.75   | $46.25        | 62             | 19     | 4      | name.com     |
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,602-row public sample | 5,621,926 live domains                           |
+| 9,602-row public sample | 9,602 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .MUSIC One-Word Domains*. Version 2026-04-10. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .MUSIC One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
