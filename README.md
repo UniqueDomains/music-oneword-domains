@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .music one-word domains from Uniqu
 
 **Public extract:** 9,602 rows · **Live catalog:** 9,602 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/music`  
 **Best for:** founders, investors, studios
 
@@ -77,7 +77,7 @@ print(df.head())
 | gather.music     | available | $13.99    | $74.99        | 96             | 38     | 6      | name.com     |
 | active.music     | premium   | $123.75   | $46.25        | 104            | 30     | 6      | name.com     |
 | unify.music      | available | $13.99    | $74.99        | 72             | 38     | 5      | name.com     |
-| damn.music       | premium   | $1,250    | $1,250        | 140            | 24     | 4      | name.com     |
+| damn.music       | premium   | $1,250    | $1,250        | 140            | 23     | 4      | name.com     |
 | risk.music       | available | $52.48    | —             | 62             | 38     | 4      | namecheap    |
 | patient.music    | premium   | $1,298.70 | $48.10        | 68             | 22     | 7      | namecheap    |
 | dental.music     | available | $13.99    | $74.99        | 90             | 36     | 6      | name.com     |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .MUSIC One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .MUSIC One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
