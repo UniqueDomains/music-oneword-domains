@@ -72,9 +72,9 @@ print(df.head())
 | coral.music      | premium   | $1,248.75 | $46.25        | 68             | 34     | 5      | name.com     |
 | athletics.music  | available | $52.48    | —             | 69             | 52     | 9      | namecheap    |
 | medical.music    | premium   | $123.75   | $46.25        | 100            | 32     | 7      | name.com     |
-| property.music   | available | $52.48    | —             | 90             | 39     | 8      | namecheap    |
+| gather.music     | available | $13.99    | $74.99        | 96             | 39     | 6      | name.com     |
 | able.music       | premium   | $123.75   | $46.25        | 80             | 32     | 4      | name.com     |
-| gather.music     | available | $13.99    | $74.99        | 96             | 38     | 6      | name.com     |
+| property.music   | available | $52.48    | —             | 90             | 39     | 8      | namecheap    |
 | active.music     | premium   | $123.75   | $46.25        | 104            | 30     | 6      | name.com     |
 | unify.music      | available | $13.99    | $74.99        | 72             | 38     | 5      | name.com     |
 | damn.music       | premium   | $1,250    | $1,250        | 140            | 23     | 4      | name.com     |
@@ -83,7 +83,7 @@ print(df.head())
 | dental.music     | available | $13.99    | $74.99        | 90             | 36     | 6      | name.com     |
 | pasta.music      | premium   | $128.70   | $48.10        | 68             | 21     | 5      | namecheap    |
 | nimble.music     | available | $13.99    | $74.99        | 94             | 33     | 6      | name.com     |
-| nail.music       | premium   | $248.75   | $46.25        | 62             | 19     | 4      | name.com     |
+| confident.music  | premium   | $248.75   | $46.25        | 93             | 19     | 9      | name.com     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
