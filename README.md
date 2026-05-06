@@ -14,9 +14,9 @@ Daily-updated public extract of available and resale .music one-word domains fro
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,054 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,054 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,054 domains · **Median ask:** $64.28 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-01  
+**Last updated:** 2026-05-06  
 **Canonical page:** `https://unique.domains/domains/tld/music`  
 **Best for:** founders, investors, studios
 
@@ -64,6 +64,17 @@ print(df.head())
 
 | domain              | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar |
 | ------------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | --------- |
+| Acup.music          | available | $52.48     | —             | 80             | 5      | 5      | namecheap |
+| ladies.music        | available | $52.48     | —             | 80             | 17     | 6      | namecheap |
+| getup.music         | available | $52.48     | —             | 82             | 14     | 6      | namecheap |
+| matcha.music        | available | $52.48     | —             | 86             | 39     | 6      | namecheap |
+| playin.music        | available | $52.48     | —             | 80             | 10     | 7      | namecheap |
+| playon.music        | available | $52.48     | —             | 80             | 14     | 7      | namecheap |
+| hangon.music        | available | $52.48     | —             | 82             | 6      | 7      | namecheap |
+| makeit.music        | available | $52.48     | —             | 82             | 22     | 7      | namecheap |
+| leaveon.music       | available | $52.48     | —             | 80             | 1      | 8      | namecheap |
+| presents.music      | available | $52.48     | —             | 80             | 9      | 8      | namecheap |
+| rumcake.music       | available | $52.48     | —             | 81             | 3      | 8      | namecheap |
 | donuts.music        | available | $52.48     | —             | 54             | 62     | 6      | namecheap |
 | Mikey.music         | premium   | $34,998.60 | $51.80        | 70             | 21     | 5      | namecheap |
 | RedSox.music        | available | $52.48     | —             | 72             | 60     | 7      | namecheap |
@@ -72,18 +83,7 @@ print(df.head())
 | hoho.music          | premium   | $248.75    | —             | 62             | 13     | 5      | name.com  |
 | shortcuts.music     | available | $52.48     | —             | 48             | 41     | 10     | namecheap |
 | makeme.music        | premium   | $123.75    | —             | 56             | 13     | 7      | name.com  |
-| matcha.music        | available | $52.48     | —             | 86             | 39     | 6      | namecheap |
 | dowell.music        | premium   | $248.75    | —             | 76             | 12     | 7      | name.com  |
-| whynot.music        | available | $52.48     | —             | 74             | 39     | 7      | namecheap |
-| cousins.music       | premium   | $248.75    | —             | 68             | 11     | 7      | name.com  |
-| rekt.music          | available | $52.48     | —             | 40             | 24     | 4      | namecheap |
-| gingerbread.music   | premium   | $123.75    | —             | 80             | 10     | 11     | name.com  |
-| makeit.music        | available | $52.48     | —             | 82             | 22     | 7      | namecheap |
-| spas.music          | premium   | $248.75    | —             | 56             | 10     | 4      | name.com  |
-| results.music       | available | $52.48     | —             | 59             | 22     | 7      | namecheap |
-| genes.music         | premium   | $248.75    | —             | 54             | 10     | 5      | name.com  |
-| unicorns.music      | available | $52.48     | —             | 73             | 21     | 8      | namecheap |
-| males.music         | premium   | $123.75    | —             | 58             | 9      | 5      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 12,054 live domains                              |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 12,054 live domains                        |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+These domains are all in the .music extension, so the main decision is not sector fit but name quality inside a niche TLD. Short, plain-language terms like matcha.music, getup.music, and gearup.music can feel more memorable than awkward compounds, while names such as Acup.music or dogsit.music may need more explanation. For founders, the key test is whether the name is easy to say, spell, and trust at first glance. For investors, the practical lens is entry price versus resale uncertainty in a non-.com string. With a median ask of 64.28, pricing may be accessible, but renewal terms and real buyer depth should be checked carefully.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- All results use the .music extension
+- Median ask across this set is 64.28
+- Prioritize names that read cleanly out loud
+- Check renewal cost before judging value
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .MUSIC One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .MUSIC One-Word Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
