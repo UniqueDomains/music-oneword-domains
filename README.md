@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .music one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,056 domains · **Median ask:** $64.28 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-26  
 **Canonical page:** `https://unique.domains/domains/tld/music`  
 **Best for:** founders, investors, studios
 
@@ -66,24 +66,24 @@ print(df.head())
 | ------------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | --------- |
 | Acup.music          | available | $52.48     | —             | 80             | 5      | 5      | namecheap |
 | ladies.music        | available | $52.48     | —             | 80             | 17     | 6      | namecheap |
-| getup.music         | available | $52.48     | —             | 82             | 14     | 6      | namecheap |
+| getup.music         | available | $52.48     | —             | 82             | 15     | 6      | namecheap |
 | matcha.music        | available | $52.48     | —             | 86             | 39     | 6      | namecheap |
 | playin.music        | available | $52.48     | —             | 80             | 10     | 7      | namecheap |
 | playon.music        | available | $52.48     | —             | 80             | 14     | 7      | namecheap |
 | hangon.music        | available | $52.48     | —             | 82             | 6      | 7      | namecheap |
-| makeit.music        | available | $52.48     | —             | 82             | 22     | 7      | namecheap |
+| makeit.music        | available | $52.48     | —             | 82             | 21     | 7      | namecheap |
 | leaveon.music       | available | $52.48     | —             | 80             | 1      | 8      | namecheap |
 | presents.music      | available | $52.48     | —             | 80             | 9      | 8      | namecheap |
-| rumcake.music       | available | $52.48     | —             | 81             | 3      | 8      | namecheap |
+| rumcake.music       | available | $52.48     | —             | 81             | 2      | 8      | namecheap |
 | donuts.music        | available | $52.48     | —             | 54             | 62     | 6      | namecheap |
 | Mikey.music         | premium   | $34,998.60 | $51.80        | 70             | 21     | 5      | namecheap |
 | RedSox.music        | available | $52.48     | —             | 72             | 60     | 7      | namecheap |
 | planes.music        | premium   | $123.75    | —             | 67             | 13     | 6      | name.com  |
 | keepthechange.music | available | $52.48     | —             | 46             | 59     | 15     | namecheap |
 | hoho.music          | premium   | $248.75    | —             | 62             | 13     | 5      | name.com  |
-| shortcuts.music     | available | $52.48     | —             | 48             | 41     | 10     | namecheap |
-| makeme.music        | premium   | $123.75    | —             | 56             | 13     | 7      | name.com  |
+| whynot.music        | available | $52.48     | —             | 74             | 44     | 7      | namecheap |
 | dowell.music        | premium   | $248.75    | —             | 76             | 12     | 7      | name.com  |
+| shortcuts.music     | available | $52.48     | —             | 48             | 41     | 10     | namecheap |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .MUSIC One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .MUSIC One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
