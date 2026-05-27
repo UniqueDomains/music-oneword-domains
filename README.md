@@ -82,7 +82,7 @@ print(df.head())
 | keepthechange.music | available | $52.48     | —             | 46             | 59     | 15     | namecheap |
 | hoho.music          | premium   | $248.75    | —             | 62             | 13     | 5      | name.com  |
 | whynot.music        | available | $52.48     | —             | 74             | 44     | 7      | namecheap |
-| dowell.music        | premium   | $248.75    | —             | 76             | 12     | 7      | name.com  |
+| dowell.music        | premium   | $248.75    | —             | 76             | 11     | 7      | name.com  |
 | shortcuts.music     | available | $52.48     | —             | 48             | 41     | 10     | namecheap |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
