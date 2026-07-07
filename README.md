@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .music one-word domains fro
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,056 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,056 domains · **Median ask:** $64.28 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,056 domains · **Median ask:** $76.74 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/music`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/music`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .MUSIC one-word domain
 
 ### Files
 
-- `music.csv` — public CSV extract (1,000 rows)
-- `music.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `music.csv`, public CSV extract (1,000 rows)
+- `music.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain              | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar |
-| ------------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | --------- |
-| Acup.music          | available | $52.48     | —             | 80             | 5      | 5      | namecheap |
-| ladies.music        | available | $52.48     | —             | 80             | 17     | 6      | namecheap |
-| getup.music         | available | $52.48     | —             | 82             | 15     | 6      | namecheap |
-| matcha.music        | available | $52.48     | —             | 86             | 39     | 6      | namecheap |
-| playin.music        | available | $52.48     | —             | 80             | 10     | 7      | namecheap |
-| playon.music        | available | $52.48     | —             | 80             | 14     | 7      | namecheap |
-| hangon.music        | available | $52.48     | —             | 82             | 6      | 7      | namecheap |
-| makeit.music        | available | $52.48     | —             | 82             | 21     | 7      | namecheap |
-| leaveon.music       | available | $52.48     | —             | 80             | 1      | 8      | namecheap |
-| presents.music      | available | $52.48     | —             | 80             | 9      | 8      | namecheap |
-| rumcake.music       | available | $52.48     | —             | 81             | 2      | 8      | namecheap |
-| donuts.music        | available | $52.48     | —             | 54             | 62     | 6      | namecheap |
-| Mikey.music         | premium   | $34,998.60 | $51.80        | 70             | 21     | 5      | namecheap |
-| RedSox.music        | available | $52.48     | —             | 72             | 60     | 7      | namecheap |
-| planes.music        | premium   | $123.75    | —             | 67             | 13     | 6      | name.com  |
-| keepthechange.music | available | $52.48     | —             | 46             | 59     | 15     | namecheap |
-| hoho.music          | premium   | $248.75    | —             | 62             | 13     | 5      | name.com  |
-| whynot.music        | available | $52.48     | —             | 74             | 44     | 7      | namecheap |
-| dowell.music        | premium   | $248.75    | —             | 76             | 11     | 7      | name.com  |
-| shortcuts.music     | available | $52.48     | —             | 48             | 41     | 10     | namecheap |
+| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| cows.music   | available | $52.48    | —             | medium         | low    | 4      | namecheap |
+| many.music   | premium   | $52.48    | —             | high           | low    | 4      | namecheap |
+| died.music   | available | $52.48    | —             | medium         | low    | 4      | namecheap |
+| same.music   | premium   | $123.75   | —             | high           | low    | 4      | name.com  |
+| flew.music   | available | $52.48    | —             | high           | low    | 4      | namecheap |
+| sent.music   | premium   | $248.75   | —             | high           | low    | 4      | name.com  |
+| jolt.music   | available | $52.48    | —             | high           | low    | 4      | namecheap |
+| stay.music   | premium   | $248.75   | —             | medium         | low    | 4      | name.com  |
+| legs.music   | available | $52.48    | —             | high           | low    | 4      | namecheap |
+| went.music   | premium   | $248.75   | —             | high           | low    | 4      | name.com  |
+| maid.music   | available | $52.48    | —             | high           | low    | 4      | namecheap |
+| condo.music  | premium   | $248.75   | —             | high           | low    | 5      | name.com  |
+| sail.music   | available | $52.48    | —             | high           | low    | 4      | namecheap |
+| every.music  | premium   | $123.75   | —             | high           | medium | 5      | name.com  |
+| ugly.music   | available | $13.99    | $74.99        | high           | low    | 4      | name.com  |
+| never.music  | premium   | $1,248.75 | —             | high           | low    | 5      | name.com  |
+| wool.music   | available | $52.48    | —             | medium         | low    | 4      | namecheap |
+| anyway.music | premium   | $123.75   | —             | high           | low    | 6      | name.com  |
+| xiii.music   | available | $13.99    | $74.99        | medium         | low    | 4      | name.com  |
+| forget.music | premium   | $123.75   | —             | medium         | low    | 6      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-These domains are all in the .music extension, so the main decision is not sector fit but name quality inside a niche TLD. Short, plain-language terms like matcha.music, getup.music, and gearup.music can feel more memorable than awkward compounds, while names such as Acup.music or dogsit.music may need more explanation. For founders, the key test is whether the name is easy to say, spell, and trust at first glance. For investors, the practical lens is entry price versus resale uncertainty in a non-.com string. With a median ask of 64.28, pricing may be accessible, but renewal terms and real buyer depth should be checked carefully.
+This set contains one-word domain names built on the .music extension, spanning short verbs, objects, and everyday terms paired with a clear music-industry signal. With a median ask near $77, pricing skews accessible relative to legacy extensions, though individual names vary by word strength and length. Whether you're scouting a name for an artist, label, playlist brand, or audio product, the .music suffix immediately narrows intent for visitors and search engines alike. Reviewing several names side by side — rather than picking the first available option — helps surface the clearest, most ownable fit for a music-related brand or a longer-term domain holding.
 
-- All results use the .music extension
-- Median ask across this set is 64.28
-- Prioritize names that read cleanly out loud
-- Check renewal cost before judging value
+- 12,056 one-word .music domain names in this set
+- Median ask around $77 across the full list
+- Short, brandable words paired with a music-specific TLD
+- Updated daily as listings and pricing shift
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .MUSIC One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .MUSIC One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
