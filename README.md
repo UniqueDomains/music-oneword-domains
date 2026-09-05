@@ -1,10 +1,10 @@
-# Available .MUSIC One-Word Domains (18,788)
+# Available .MUSIC One-Word Domains (19,057)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-18%2C788%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-19%2C057%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .music one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **18,788 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **19,057 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 18,788 domains · **Median ask:** $77.34 · **High-demand under $2,500:** 6
+**Public extract:** 1,000 rows · **Live catalog:** 19,057 domains · **Median ask:** $77.55 · **High-demand under $2,500:** 7
 
-**Last updated:** 2026-09-04
+**Last updated:** 2026-09-05
 **Canonical page:** `https://unique.domains/domains/tld/music`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| cows.music | available | $52.48    | —             | medium         | low    | 4      | namecheap |
-| ixl.music  | premium   | $1,748.75 | $46.25        | low            | low    | 3      | name.com  |
-| died.music | available | $52.48    | —             | medium         | low    | 4      | namecheap |
-| lxi.music  | premium   | $873.75   | $46.25        | low            | low    | 3      | name.com  |
-| flew.music | available | $52.48    | —             | high           | low    | 4      | namecheap |
-| sob.music  | premium   | $873.75   | $46.25        | low            | low    | 3      | name.com  |
-| jolt.music | available | $52.48    | —             | high           | low    | 4      | namecheap |
-| xli.music  | premium   | $873.75   | $46.25        | low            | low    | 3      | name.com  |
-| legs.music | available | $52.48    | —             | high           | low    | 4      | namecheap |
-| cxxx.music | premium   | $86.25    | $46.25        | low            | low    | 4      | name.com  |
-| lxiv.music | available | $47.98    | $52.48        | low            | low    | 4      | namecheap |
-| many.music | premium   | $52.48    | —             | high           | low    | 4      | namecheap |
-| maid.music | available | $52.48    | —             | high           | low    | 4      | namecheap |
-| same.music | premium   | $123.75   | —             | high           | low    | 4      | name.com  |
-| sail.music | available | $52.48    | —             | high           | low    | 4      | namecheap |
-| sent.music | premium   | $248.75   | —             | high           | low    | 4      | name.com  |
-| ugly.music | available | $13.99    | $74.99        | high           | low    | 4      | name.com  |
-| stay.music | premium   | $248.75   | —             | medium         | low    | 4      | name.com  |
-| viii.music | available | $47.98    | $52.48        | low            | low    | 4      | namecheap |
-| trey.music | premium   | $1,748.75 | $46.25        | medium         | low    | 4      | name.com  |
+| domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| quiet.music | available | —         | —             | high           | high   | 5      | —         |
+| away.music  | available | —         | —             | high           | high   | 4      | —         |
+| cows.music  | available | $52.48    | —             | medium         | low    | 4      | namecheap |
+| ixl.music   | premium   | $1,748.75 | $46.25        | low            | low    | 3      | name.com  |
+| died.music  | available | $52.48    | —             | medium         | low    | 4      | namecheap |
+| lxi.music   | premium   | $873.75   | $46.25        | low            | low    | 3      | name.com  |
+| flew.music  | available | $52.48    | —             | high           | low    | 4      | namecheap |
+| sob.music   | premium   | $873.75   | $46.25        | low            | low    | 3      | name.com  |
+| jolt.music  | available | $52.48    | —             | high           | low    | 4      | namecheap |
+| xli.music   | premium   | $873.75   | $46.25        | low            | low    | 3      | name.com  |
+| legs.music  | available | $52.48    | —             | high           | low    | 4      | namecheap |
+| bite.music  | premium   | $388.70   | $48.10        | medium         | low    | 4      | namecheap |
+| lxiv.music  | available | $47.98    | $52.48        | low            | low    | 4      | namecheap |
+| cxxx.music  | premium   | $86.25    | $46.25        | low            | low    | 4      | name.com  |
+| maid.music  | available | $52.48    | —             | high           | low    | 4      | namecheap |
+| many.music  | premium   | $52.48    | —             | high           | low    | 4      | namecheap |
+| sail.music  | available | $52.48    | —             | high           | low    | 4      | namecheap |
+| same.music  | premium   | $123.75   | —             | high           | low    | 4      | name.com  |
+| ugly.music  | available | $13.99    | $74.99        | high           | low    | 4      | name.com  |
+| sent.music  | premium   | $248.75   | —             | high           | low    | 4      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 18,788 live domains                        |
+| 1,000-row public sample | 19,057 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 6 high-demand names under $2,500           |
+| Basic exported fields   | 7 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .MUSIC One-Word Domains*. Version 2026-09-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .MUSIC One-Word Domains*. Version 2026-09-05. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
