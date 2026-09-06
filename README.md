@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .music one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 19,057 domains · **Median ask:** $77.55 · **High-demand under $2,500:** 7
 
-**Last updated:** 2026-09-05
+**Last updated:** 2026-09-06
 **Canonical page:** `https://unique.domains/domains/tld/music`
 **Best for:** founders, investors, studios
 
@@ -65,7 +65,6 @@ print(df.head())
 | domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
 | ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
 | quiet.music | available | —         | —             | high           | high   | 5      | —         |
-| away.music  | available | —         | —             | high           | high   | 4      | —         |
 | cows.music  | available | $52.48    | —             | medium         | low    | 4      | namecheap |
 | ixl.music   | premium   | $1,748.75 | $46.25        | low            | low    | 3      | name.com  |
 | died.music  | available | $52.48    | —             | medium         | low    | 4      | namecheap |
@@ -84,6 +83,7 @@ print(df.head())
 | same.music  | premium   | $123.75   | —             | high           | low    | 4      | name.com  |
 | ugly.music  | available | $13.99    | $74.99        | high           | low    | 4      | name.com  |
 | sent.music  | premium   | $248.75   | —             | high           | low    | 4      | name.com  |
+| viii.music  | available | $47.98    | $52.48        | low            | low    | 4      | namecheap |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .MUSIC One-Word Domains*. Version 2026-09-05. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .MUSIC One-Word Domains*. Version 2026-09-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
