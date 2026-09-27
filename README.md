@@ -1,10 +1,10 @@
-# Available .MUSIC One-Word Domains (15,515)
+# Available .MUSIC One-Word Domains (18,866)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-15%2C515%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-18%2C866%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .music one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **15,515 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **18,866 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 15,515 domains · **Median ask:** $92.18 · **High-demand under $2,500:** 5
+**Public extract:** 1,000 rows · **Live catalog:** 18,866 domains · **Median ask:** $143.04 · **High-demand under $2,500:** 14
 
-**Last updated:** 2026-09-25
+**Last updated:** 2026-09-27
 **Canonical page:** `https://unique.domains/domains/tld/music`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| asat.music   | available | $47.98    | $52.48        | high           | low    | 4      | namecheap |
-| oxygen.music | resell    | —         | —             | high           | low    | 6      | NAMECHEAP |
-| ixl.music    | premium   | $1,748.75 | $46.25        | medium         | low    | 3      | name.com  |
-| bulb.music   | available | $52.48    | —             | high           | low    | 4      | namecheap |
-| lvi.music    | premium   | $873.75   | $46.25        | high           | low    | 3      | name.com  |
-| cent.music   | available | $47.98    | $52.48        | high           | low    | 4      | namecheap |
-| lxi.music    | premium   | $873.75   | $46.25        | medium         | low    | 3      | name.com  |
-| cows.music   | available | $52.48    | —             | high           | low    | 4      | namecheap |
-| sob.music    | premium   | $873.75   | $46.25        | high           | low    | 3      | name.com  |
-| died.music   | available | $52.48    | —             | low            | low    | 4      | namecheap |
-| xli.music    | premium   | $873.75   | $46.25        | high           | low    | 3      | name.com  |
-| eyry.music   | available | $47.98    | $52.48        | high           | low    | 4      | namecheap |
-| bite.music   | premium   | $388.70   | $48.10        | high           | low    | 4      | namecheap |
-| flew.music   | available | $52.48    | —             | high           | low    | 4      | namecheap |
-| cxxx.music   | premium   | $86.25    | $46.25        | high           | low    | 4      | name.com  |
-| foul.music   | available | $47.98    | $52.48        | high           | low    | 4      | namecheap |
-| flak.music   | premium   | $186.25   | $46.25        | medium         | low    | 4      | name.com  |
-| gave.music   | available | $52.48    | —             | medium         | low    | 4      | namecheap |
-| many.music   | premium   | $52.48    | —             | high           | low    | 4      | namecheap |
-| jolt.music   | available | $52.48    | —             | high           | low    | 4      | namecheap |
+| domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| beet.music | available | $47.98    | $52.48        | high           | low    | 4      | namecheap |
+| gip.music  | premium   | $1,818.70 | $48.10        | medium         | low    | 3      | namecheap |
+| came.music | available | $52.48    | —             | high           | low    | 4      | namecheap |
+| icy.music  | premium   | $873.75   | $46.25        | medium         | low    | 3      | name.com  |
+| dues.music | available | $74.99    | $74.99        | high           | low    | 4      | name.com  |
+| pcp.music  | premium   | $908.70   | $48.10        | high           | low    | 3      | namecheap |
+| icky.music | available | $47.98    | $52.48        | medium         | low    | 4      | namecheap |
+| thb.music  | premium   | $1,818.70 | $48.10        | high           | low    | 3      | namecheap |
+| pith.music | available | $47.98    | $52.48        | high           | low    | 4      | namecheap |
+| xli.music  | premium   | $873.75   | $46.25        | medium         | low    | 3      | name.com  |
+| rust.music | available | $52.48    | —             | high           | low    | 4      | namecheap |
+| agon.music | premium   | $3,248.70 | $48.10        | high           | low    | 4      | namecheap |
+| sise.music | available | $47.98    | $52.48        | medium         | low    | 4      | namecheap |
+| asea.music | premium   | $89.70    | $48.10        | medium         | low    | 4      | namecheap |
+| sits.music | available | $47.98    | $52.48        | medium         | low    | 4      | namecheap |
+| auld.music | premium   | $86.25    | $46.25        | medium         | low    | 4      | name.com  |
+| skag.music | available | $47.98    | $52.48        | medium         | low    | 4      | namecheap |
+| awol.music | premium   | $186.25   | $46.25        | high           | low    | 4      | name.com  |
+| thus.music | available | $52.48    | —             | high           | low    | 4      | namecheap |
+| ayah.music | premium   | $193.70   | $48.10        | high           | low    | 4      | namecheap |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 15,515 live domains                        |
+| 1,000-row public sample | 18,866 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 5 high-demand names under $2,500           |
+| Basic exported fields   | 14 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .MUSIC One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .MUSIC One-Word Domains*. Version 2026-09-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
