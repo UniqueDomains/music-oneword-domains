@@ -1,10 +1,10 @@
-# Available .MUSIC One-Word Domains (20,391)
+# Available .MUSIC One-Word Domains (21,383)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-20%2C391%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-21%2C383%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .music one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **20,391 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **21,383 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 20,391 domains · **Median ask:** $172.91 · **High-demand under $2,500:** 19
+**Public extract:** 1,000 rows · **Live catalog:** 21,383 domains · **Median ask:** $183.60 · **High-demand under $2,500:** 20
 
-**Last updated:** 2026-09-29
+**Last updated:** 2026-09-30
 **Canonical page:** `https://unique.domains/domains/tld/music`
 **Best for:** founders, investors, studios
 
@@ -73,17 +73,17 @@ print(df.head())
 | fema.music | available | $39.81    | $39.81        | medium         | low    | 4      | dynadot   |
 | gip.music  | premium   | $1,818.70 | $48.10        | medium         | low    | 3      | namecheap |
 | icky.music | available | $47.98    | $52.48        | medium         | low    | 4      | namecheap |
-| gpa.music  | premium   | $908.70   | $48.10        | high           | low    | 3      | namecheap |
-| owes.music | available | $38.50    | $38.50        | medium         | low    | 4      | spaceship |
+| gpo.music  | premium   | $723.67   | $38.50        | high           | low    | 3      | spaceship |
+| osha.music | available | $38.50    | $38.50        | high           | low    | 4      | spaceship |
 | ioc.music  | premium   | $763.59   | $40.92        | high           | low    | 3      | porkbun   |
+| owes.music | available | $38.50    | $38.50        | high           | low    | 4      | spaceship |
+| mhc.music  | premium   | $723.67   | $38.50        | high           | low    | 3      | spaceship |
 | pith.music | available | $47.98    | $52.48        | high           | low    | 4      | namecheap |
-| pen.music  | premium   | $908.70   | $48.10        | high           | low    | 3      | namecheap |
+| rpg.music  | premium   | $723.67   | $38.50        | high           | low    | 3      | spaceship |
 | rust.music | available | $39.81    | $39.81        | high           | medium | 4      | dynadot   |
 | rsa.music  | premium   | $1,818.70 | $48.10        | high           | low    | 3      | namecheap |
 | sise.music | available | $47.98    | $52.48        | medium         | low    | 4      | namecheap |
 | thb.music  | premium   | $1,818.70 | $48.10        | high           | low    | 3      | namecheap |
-| sits.music | available | $47.98    | $52.48        | medium         | low    | 4      | namecheap |
-| xli.music  | premium   | $873.75   | $46.25        | medium         | low    | 3      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 20,391 live domains                        |
+| 1,000-row public sample | 21,383 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 19 high-demand names under $2,500          |
+| Basic exported fields   | 20 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .MUSIC One-Word Domains*. Version 2026-09-29. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .MUSIC One-Word Domains*. Version 2026-09-30. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
