@@ -2,14 +2,14 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 651bdb9c-a0f9-47f2-9fa2-559aa0871f2a,bonding.music,available,38.5,38.5,high,low,7,spaceship,,,28/09/2026 09:11
 c8423efb-a056-4dac-b697-107a34bd1f77,tested.music,available,47.98,52.48,high,low,6,namecheap,,,28/09/2026 02:20
 d39c69af-fbe7-4fd9-80c0-2b2d5259bde6,saturn.music,premium,75.9,39.81,high,low,6,dynadot,,,29/09/2026 13:55
-70fc9574-0e96-4b01-98e1-0abfa3a1e521,uncounted.music,available,47.98,52.48,high,low,9,namecheap,,,13/08/2026 03:44
+70fc9574-0e96-4b01-98e1-0abfa3a1e521,uncounted.music,available,47.98,52.48,medium,low,9,namecheap,,,13/08/2026 03:44
 76313b0f-7d85-40af-9c6b-bc4be7552d6e,outlander.music,premium,1748.75,46.25,medium,low,9,name.com,,,
 a4a1c7ae-a553-46da-aea5-af6012163123,ringing.music,available,47.98,52.48,high,low,7,namecheap,,,27/09/2026 05:00
 7723677a-b322-4b6b-957f-8d261431e817,awol.music,premium,186.25,46.25,high,low,4,name.com,,,08/08/2026 01:46
 5c4dc9f3-53b3-49e6-bfbe-a96199866a8d,comrades.music,available,38.5,38.5,medium,low,8,spaceship,,,28/09/2026 13:07
 c3920c0a-66fd-4ab7-ba0f-ffe97c1657c0,xxxii.music,available,47.98,52.48,medium,low,5,namecheap,,,
-affec2c2-69f2-46de-a3c3-4b26d6b447c4,metaphoric.music,available,47.98,52.48,high,low,10,namecheap,,,24/08/2026 21:45
-60d598c9-fb9d-432c-8e74-1f27358725e2,yearling.music,available,47.98,52.48,high,low,8,namecheap,,,22/09/2026 00:38
+affec2c2-69f2-46de-a3c3-4b26d6b447c4,metaphoric.music,available,47.98,52.48,medium,low,10,namecheap,,,24/08/2026 21:45
+60d598c9-fb9d-432c-8e74-1f27358725e2,yearling.music,available,47.98,52.48,medium,low,8,namecheap,,,22/09/2026 00:38
 da30dd25-0ea3-4cd5-bf79-8334fb911879,traceable.music,available,47.98,52.48,high,low,9,namecheap,,,11/09/2026 18:33
 ad19eed2-2b48-4e52-b6e6-0ab787b8e300,beginnings.music,available,38.5,38.5,medium,low,10,spaceship,,,30/09/2026 00:17
 ede21972-5cc9-4fe4-9e13-51c94fe6bfad,auld.music,premium,86.25,46.25,medium,low,4,name.com,,,07/08/2026 17:21
@@ -23,6 +23,7 @@ ede21972-5cc9-4fe4-9e13-51c94fe6bfad,auld.music,premium,86.25,46.25,medium,low,4
 00c03014-b73b-436a-8936-bf696eb88337,quaker.music,available,38.5,38.5,high,low,6,spaceship,,,29/09/2026 20:05
 b3c63b2a-f410-4cfb-aa99-3c6d862bbcc8,extensively.music,available,38.5,38.5,medium,low,11,spaceship,,,29/09/2026 20:59
 dc6d848a-93e4-47e5-bf83-f671e33e17a4,cloudless.music,available,47.98,52.48,high,low,9,namecheap,,,12/08/2026 12:32
+674190a4-86f8-42d9-9b22-ce904a15a58c,coordinating.music,available,39.81,39.81,medium,low,12,dynadot,,,30/09/2026 07:45
 acab1f5c-f7c8-4756-b1d9-7b09f98c0581,grieving.music,available,47.98,52.48,medium,low,8,namecheap,,,09/08/2026 15:07
 4574139d-c307-4a39-905d-52e8d7e8a7fa,severed.music,available,74.99,74.99,medium,low,7,name.com,,,13/08/2026 12:32
 f67d30c1-6295-4ccb-8b6f-b40bb2012c92,denison.music,premium,71.62,38.5,medium,low,7,spaceship,,,28/09/2026 08:06
@@ -37,17 +38,19 @@ f288b1a8-c851-4f3c-842a-cd87449abb86,repulse.music,available,47.98,52.48,high,me
 652d7dcb-0f5f-4682-814e-2d7433bcd725,declined.music,available,38.5,38.5,low,low,8,spaceship,,,28/09/2026 22:47
 9f313f83-e328-40af-a8a9-a6951639074b,podlike.music,available,47.98,52.48,medium,low,7,namecheap,,,08/09/2026 22:31
 0e299ac8-fc43-4467-8641-aa051552df71,prosily.music,available,47.98,52.48,medium,low,7,namecheap,,,15/09/2026 21:46
-c52b4ebb-ff7f-42dc-bdff-d95d1be5b30d,nike.music,available,,,high,high,4,,,,
+c52b4ebb-ff7f-42dc-bdff-d95d1be5b30d,nike.music,premium,71.62,38.5,high,high,4,spaceship,,,30/09/2026 05:45
 08babae1-d171-412f-a26e-c5a6dead2ca3,disability.music,premium,373.75,46.25,high,low,10,name.com,,,24/09/2026 22:26
 0997a9ac-0c9a-47fa-ab82-faa8e698bf06,occurring.music,available,52.48,,high,low,9,namecheap,,,
 e9ac9378-60ff-442f-8c36-a38b09b69699,apiary.music,premium,193.7,48.1,high,low,6,namecheap,,,19/09/2026 17:20
 3cf01a5a-91e2-48d6-983c-7d048e577629,cretin.music,available,47.98,52.48,medium,low,6,namecheap,,,21/08/2026 20:26
 e453bab1-80f6-4db5-9b51-f435e0e9b133,narrowing.music,available,47.98,52.48,high,low,9,namecheap,,,12/08/2026 23:00
+6e3bf147-298b-4cb5-b3bb-ba80e178ddf8,danes.music,available,38.5,38.5,medium,low,5,spaceship,,,30/09/2026 14:16
 aca4f908-0959-4bc8-ba6b-f1ed94f06829,airstrip.music,available,47.98,52.48,high,low,8,namecheap,,,17/09/2026 23:24
 e4b4d390-b2e2-4baf-9aeb-43020300387e,playstation.music,available,,,high,high,11,,,,
+bcf340b6-6504-4a34-9244-e2344a09d5f4,opel.music,available,38.5,38.5,high,medium,4,spaceship,,,30/09/2026 10:39
 fe27ab84-3f9a-4d17-9982-4261de721a78,underground.music,available,,,high,low,11,,,,26/09/2026 00:51
 d6b97ab0-b1d3-45e1-9484-874340e13147,tricolor.music,available,47.98,52.48,medium,low,8,namecheap,,,11/09/2026 19:26
-f40dbe5b-7c65-4d41-ab86-434b6f960ea4,owes.music,available,38.5,38.5,high,low,4,spaceship,,,28/09/2026 05:04
+f40dbe5b-7c65-4d41-ab86-434b6f960ea4,owes.music,available,38.5,38.5,medium,low,4,spaceship,,,28/09/2026 05:04
 544dcac8-19db-400a-aa4d-49549f9ec358,purchaser.music,available,47.98,52.48,high,low,9,namecheap,,,24/09/2026 11:22
 f59a76ed-1cde-4e7d-8b16-62fd5cbb7b77,linking.music,premium,71.62,38.5,high,low,7,spaceship,,,29/09/2026 08:52
 22cfa3e5-7a3f-446f-b4e5-5b6afd6a77b6,envisioned.music,available,47.98,52.48,high,low,10,namecheap,,,24/09/2026 14:18
@@ -57,8 +60,10 @@ d3c80e28-6e77-4879-871a-56bf70e63200,caa.music,premium,723.67,38.5,high,low,3,sp
 246d22e3-246f-4649-b644-ff75faa544fa,chatty.music,available,47.98,52.48,high,low,6,namecheap,,,12/08/2026 03:17
 02459531-ceb8-47dc-8039-4397047a958f,curled.music,premium,873.75,46.25,medium,low,6,name.com,,,13/08/2026 11:19
 c2074c2a-c43a-4e49-982d-a8747bdfc7ec,autofocus.music,available,47.98,52.48,high,low,9,namecheap,,,21/09/2026 06:19
+dcd39411-54f3-4452-82d3-e6519c74fc8a,eyebrows.music,available,39.81,39.81,medium,low,8,dynadot,,,30/09/2026 06:11
 756f79de-eacd-4bc8-9bdb-8460a12a7c1e,laurels.music,available,47.98,52.48,high,low,7,namecheap,,,16/09/2026 22:48
 95744042-8d02-4e08-8903-91b12605eec9,meritable.music,available,47.98,52.48,medium,low,9,namecheap,,,24/08/2026 20:53
+a93a072c-6644-4773-9690-0bf74964c611,hickory.music,available,38.5,38.5,high,low,7,spaceship,,,30/09/2026 17:36
 3967e3b6-356f-418a-82ac-5319466daea4,presume.music,premium,89.7,48.1,medium,low,7,namecheap,,,29/09/2026 00:37
 5ff2f595-ec6d-4577-b7b8-18acbaeccf86,forties.music,available,47.98,52.48,medium,low,7,namecheap,,,16/09/2026 12:06
 74a65f81-af63-4779-a1c7-a27980dea433,unorthodox.music,available,47.98,52.48,high,low,10,namecheap,,,24/08/2026 17:44
@@ -67,6 +72,7 @@ c2074c2a-c43a-4e49-982d-a8747bdfc7ec,autofocus.music,available,47.98,52.48,high,
 ce39b0ef-ca87-4cb4-aa93-18251df81e01,scatty.music,available,47.98,52.48,medium,low,6,namecheap,,,
 23c67b23-9551-40cb-b4b0-964f3f141b28,burping.music,available,47.98,52.48,high,low,7,namecheap,,,23/09/2026 04:38
 29b7bdcc-960f-4c1e-91d7-f1b35d05b0fd,moved.music,available,,,high,low,5,,,,
+50df6699-698f-4c2a-b628-37316b5ebbba,milking.music,available,38.5,38.5,high,low,7,spaceship,,,30/09/2026 23:01
 c9fa2e82-88ac-4024-8169-6e67270ccbd1,fusiform.music,available,47.98,52.48,medium,low,8,namecheap,,,12/08/2026 08:02
 1485efed-1c35-47f5-be4c-3b7427a180b5,onionskin.music,available,47.98,52.48,medium,low,9,namecheap,,,18/08/2026 08:17
 41213c0e-608b-44ba-9dd8-72e5bf86b992,correlate.music,available,47.98,52.48,high,low,9,namecheap,,,23/09/2026 23:49
@@ -87,11 +93,13 @@ b0167721-51cc-40e1-8a59-da46df4ecfb7,stroppy.music,available,47.98,52.48,medium,
 283883c8-0c06-481d-a17f-770dab4c14c1,isoclinic.music,available,47.98,52.48,medium,low,9,namecheap,,,22/08/2026 11:02
 11df7d52-204f-4457-99bc-5a53a7d0821f,facing.music,available,38.5,38.5,high,low,6,spaceship,,,29/09/2026 09:38
 78fd264d-a652-4ce2-b674-af873c39a95d,lungs.music,available,47.98,52.48,medium,low,5,namecheap,,,27/09/2026 02:43
+17970280-d300-4efd-9c53-0ec30be79d0d,withheld.music,available,47.98,52.48,medium,low,8,namecheap,,,30/09/2026 22:34
 07d0b3c5-054c-42af-8f75-9196d96346e5,differ.music,available,39.81,39.81,high,low,6,dynadot,,,28/09/2026 20:49
 94d49013-dabc-471f-a4ee-f0b8de5cc46b,arranging.music,premium,908.7,48.1,high,low,9,namecheap,,,20/09/2026 08:47
 ada93444-1eb8-4a59-b15e-3ebe681249e2,juxtaposed.music,available,47.98,52.48,medium,low,10,namecheap,,,22/08/2026 15:00
 33723c25-6dbd-41f1-810c-f650dd471e61,reminds.music,available,47.98,52.48,medium,low,7,namecheap,,,27/09/2026 03:09
 9e70b7ff-1a63-43ae-8fd7-5342e2fa6ea4,basel.music,premium,193.7,48.1,high,medium,5,namecheap,,,22/09/2026 10:13
+18967203-0a93-476a-8be0-8cdd40d79ee7,zoology.music,available,38.5,38.5,high,low,7,spaceship,,,01/10/2026 02:02
 41b38ed2-5b36-4ce0-9387-b9deb30d00dc,anecdote.music,available,47.98,52.48,high,low,8,namecheap,,,19/09/2026 05:07
 1f2166b3-78e4-442f-8647-ee29952ddb53,foothold.music,available,47.98,52.48,high,low,8,namecheap,,,24/09/2026 10:16
 47d36f25-f469-4682-944d-6fc5820c7a89,sammy.music,premium,1818.7,48.1,high,low,5,namecheap,,,26/09/2026 03:25
@@ -99,20 +107,22 @@ f6ee0952-48b8-4389-985a-3e8c1391f48e,enjoyed.music,available,47.98,52.48,medium,
 f9b14471-7e38-4b87-8946-2b6187fde709,greeting.music,premium,193.7,48.1,high,low,8,namecheap,,,28/09/2026 14:22
 5c87e101-4031-46f9-8846-f450e5412265,domestic.music,available,47.98,52.48,high,low,8,namecheap,,,19/09/2026 12:54
 412151ec-d241-45bd-af88-d91205b91fb4,contraction.music,available,38.5,38.5,high,low,11,spaceship,,,29/09/2026 10:10
+f6493555-ac03-49d1-a479-bcef0143245d,rocha.music,premium,2748.9,39.81,high,low,5,dynadot,,,30/09/2026 13:48
 acb1c1c1-5019-443b-873c-aa05764eb1f0,substance.music,premium,388.7,48.1,high,low,9,namecheap,,,14/09/2026 23:41
+619b3d31-06e2-49fb-b9db-489acde1e954,vaux.music,available,73.99,73.99,medium,low,4,godaddy,,,01/10/2026 01:15
 930f2e34-fd68-4e35-bd12-751867cfa044,expanded.music,available,47.98,52.48,high,low,8,namecheap,,,17/08/2026 17:57
 6a67eff1-c0bf-4910-ac08-3eff2ac4b10e,noseless.music,available,47.98,52.48,low,low,8,namecheap,,,03/09/2026 21:47
-55e395b5-0a53-4892-b853-9ec14a268291,beggar.music,available,47.98,52.48,high,low,6,namecheap,,,23/09/2026 02:08
+55e395b5-0a53-4892-b853-9ec14a268291,beggar.music,available,47.98,52.48,medium,low,6,namecheap,,,23/09/2026 02:08
 cd2ab42e-2f6e-43fc-9dfa-249b1cd30de3,parents.music,available,52.48,,high,low,7,namecheap,,,
-cb2ed089-30bc-47d7-accb-18bba5fc286a,ridden.music,available,52.48,,high,low,6,namecheap,,,
-4dfc98ab-97a0-449f-954b-f0dc1061f0c9,ovate.music,available,47.98,52.48,high,low,5,namecheap,,,15/08/2026 18:03
+cb2ed089-30bc-47d7-accb-18bba5fc286a,ridden.music,available,38.5,38.5,high,low,6,spaceship,,,30/09/2026 23:00
+4dfc98ab-97a0-449f-954b-f0dc1061f0c9,ovate.music,available,47.98,52.48,medium,low,5,namecheap,,,15/08/2026 18:03
 22e18426-35f6-4e6f-85bf-7620250aa03e,dorsum.music,available,47.98,52.48,medium,low,6,namecheap,,,08/08/2026 05:12
 6ed16fac-c422-4d0c-8b9e-c70413d7443d,celsius.music,premium,89.7,48.1,high,low,7,namecheap,,,19/09/2026 04:00
 15acd0d0-07b8-4203-8c1b-ed6997b09d74,answering.music,available,47.98,52.48,high,low,9,namecheap,,,22/09/2026 05:38
 d5cf272a-3195-4b1a-93a9-4e830fc094aa,poisonous.music,available,47.98,52.48,medium,low,9,namecheap,,,08/09/2026 22:40
+d741551b-8ed6-473b-be80-c3c17ae33466,spinner.music,premium,154.42,38.5,high,low,7,spaceship,,,01/10/2026 03:50
 3fa2b1fb-81d6-49e4-9466-a1cddeabb300,downriver.music,available,47.98,52.48,high,low,9,namecheap,,,14/08/2026 18:01
-12cd0b2f-de15-4971-9ee5-6fe616ecdf28,condone.music,available,52.48,,high,low,7,namecheap,,,
-31795fad-4491-48fe-ab7b-8f015aa8715d,microwave.music,available,,,high,low,9,,,,
+12cd0b2f-de15-4971-9ee5-6fe616ecdf28,condone.music,available,47.98,52.48,high,low,7,namecheap,,,30/09/2026 17:43
 7a244132-785b-4f6d-ac8a-859b327bf7bd,berserker.music,available,47.98,52.48,medium,low,9,namecheap,,,09/08/2026 15:17
 d923ad8a-c179-4a3c-8032-1cb407b3ae97,products.music,available,52.48,,high,low,8,namecheap,,,
 cef3d2b4-2a1c-4aef-b2f4-4572bd48ae97,luzon.music,premium,89.7,48.1,high,low,5,namecheap,,,27/09/2026 14:53
@@ -128,7 +138,7 @@ fe0f5fa9-317e-4ab1-bce6-f3c6c6f2aad2,unfading.music,available,47.98,52.48,medium
 fe47ada0-1604-4f53-993c-fc1943f1315f,traitor.music,available,39.81,39.81,high,low,7,dynadot,,,27/09/2026 13:08
 93d13a4e-29d8-425b-b348-5a5851b6869f,rising.music,premium,186.25,46.25,high,low,6,name.com,,,
 dd9738f6-b9f0-471f-9dd0-961b74756dd5,bruise.music,available,38.5,38.5,medium,low,6,spaceship,,,29/09/2026 04:45
-2002dfa1-4d73-4fc5-9119-15c495a104be,mutualist.music,available,47.98,52.48,high,low,9,namecheap,,,22/08/2026 07:59
+2002dfa1-4d73-4fc5-9119-15c495a104be,mutualist.music,available,47.98,52.48,medium,low,9,namecheap,,,22/08/2026 07:59
 3e3e321d-7f96-462b-a77e-ace088d2dff1,legalize.music,available,47.98,52.48,high,low,8,namecheap,,,22/08/2026 23:05
 b517cc50-d597-4407-b6e7-8eb5a9a2273f,olden.music,premium,89.7,48.1,medium,low,5,namecheap,,,04/09/2026 02:02
 83e3f29e-be89-4a6c-afd0-f3584bf35bc6,spiny.music,available,47.98,52.48,medium,low,5,namecheap,,,08/08/2026 17:49
@@ -137,7 +147,7 @@ ae6e95f3-d7fe-4a17-9b33-d6e5bb976737,abort.music,available,47.98,52.48,high,low,
 8cb41559-2d9f-42c7-9167-3beb6821166f,liver.music,available,47.98,52.48,high,low,5,namecheap,,,24/08/2026 08:02
 b5b97c4a-4d13-4495-b093-176252b712aa,glace.music,premium,186.25,46.25,medium,low,5,name.com,,,13/08/2026 09:46
 5d9df24d-c239-4461-8462-7815abf7bf34,exaggerated.music,available,38.5,38.5,medium,low,11,spaceship,,,29/09/2026 14:24
-163b29ec-950e-4a9a-861a-8bc0538914c5,affirmative.music,available,52.48,,high,low,11,namecheap,,,
+163b29ec-950e-4a9a-861a-8bc0538914c5,affirmative.music,available,38.5,38.5,high,low,11,spaceship,,,30/09/2026 22:02
 7679fbfb-c57b-4190-8c77-bf7ba8aed2e7,beet.music,available,47.98,52.48,high,low,4,namecheap,,,23/09/2026 01:49
 dc6fa3a6-7f8f-465b-b822-436fb0472a38,turns.music,available,47.98,52.48,medium,low,5,namecheap,,,18/09/2026 14:48
 ad38ccc9-aa3c-4878-83f4-f65d443a735b,auxiliary.music,available,,,high,low,9,,,,
@@ -146,15 +156,16 @@ ad38ccc9-aa3c-4878-83f4-f65d443a735b,auxiliary.music,available,,,high,low,9,,,,
 a9d26081-a54b-4682-bc2f-26d3fd8a5fb5,capacitive.music,available,47.98,52.48,medium,low,10,namecheap,,,11/08/2026 17:49
 e1985c4c-38df-4556-812f-861ebb84e616,matchless.music,available,47.98,52.48,high,low,9,namecheap,,,24/08/2026 17:00
 6b7c4295-a39f-417b-a121-50b77047caab,physiological.music,available,38.5,38.5,medium,low,13,spaceship,,,29/09/2026 20:58
-71727fd5-b3fd-4b9b-b290-6a547bbb89cd,moorish.music,available,47.98,52.48,high,low,7,namecheap,,,25/08/2026 05:59
+71727fd5-b3fd-4b9b-b290-6a547bbb89cd,moorish.music,available,47.98,52.48,medium,low,7,namecheap,,,25/08/2026 05:59
 0664396b-1c35-45d6-bf26-7f4488729a8b,anita.music,premium,3248.7,48.1,high,low,5,namecheap,,,25/09/2026 15:32
+30dfe278-207b-443a-88cc-97b8fff4752a,sunflower.music,available,38.62,38.62,high,low,9,porkbun,,,30/09/2026 10:06
 baf9152e-b65d-4f24-97d8-cd680fca4741,empowering.music,available,52.48,,high,low,10,namecheap,,,
 31e659ce-dd51-4038-95f7-2c2caa20872a,sunless.music,available,47.98,52.48,medium,low,7,namecheap,,,12/08/2026 12:31
 224a9163-116b-408e-948b-344d4b44c8ea,invariable.music,available,47.98,52.48,high,low,10,namecheap,,,12/08/2026 22:58
 bd739845-e162-4c19-bd9b-9463929276a5,anaconda.music,available,47.98,52.48,high,medium,8,namecheap,,,19/09/2026 01:07
 03721def-f70a-4a87-b1f8-3880497baa52,lineal.music,available,47.98,52.48,medium,low,6,namecheap,,,23/08/2026 14:16
 4d3e2abe-684a-43e2-b25a-93260ffdf32c,mendocino.music,available,38.5,38.5,medium,low,9,spaceship,,,29/09/2026 22:47
-e6f81fd9-68ee-43c2-af72-1b136080ef51,abreast.music,available,47.98,52.48,high,low,7,namecheap,,,
+e6f81fd9-68ee-43c2-af72-1b136080ef51,abreast.music,available,47.98,52.48,medium,low,7,namecheap,,,
 a8606d6a-2f8f-4ace-a9fa-5e361cf00a9b,reversible.music,available,39.81,39.81,high,low,10,dynadot,,,27/09/2026 14:17
 8718541e-8d0e-4479-a6ef-cb13fac320f2,manned.music,available,47.98,52.48,high,low,6,namecheap,,,24/08/2026 15:16
 418346e4-c615-4450-88ea-b3af19a7becc,xcvi.music,available,47.98,52.48,medium,low,4,namecheap,,,
@@ -162,24 +173,26 @@ ff73cf33-8f67-4875-95c3-0db7cbb8e23d,amain.music,available,47.98,52.48,medium,lo
 4b876013-0272-4b2e-bcda-386ed827c346,bayesian.music,available,,,medium,low,8,,,,
 4e128572-a313-4fec-85e9-90d48a820fd5,unanswered.music,available,47.98,52.48,medium,low,10,namecheap,,,12/09/2026 00:43
 81fc33e4-ce54-40c2-8420-03c9e64a0963,metallic.music,available,47.98,52.48,high,low,8,namecheap,,,24/08/2026 21:34
-7a9fa5ae-c375-4e21-b571-d5e3166dc511,came.music,available,52.48,,high,low,4,namecheap,,,
+7a9fa5ae-c375-4e21-b571-d5e3166dc511,came.music,available,38.5,38.5,high,low,4,spaceship,,,30/09/2026 22:36
 0ed164dd-246f-44a0-8723-4c8afa722ef8,kisses.music,available,47.98,52.48,medium,low,6,namecheap,,,28/09/2026 04:53
 f9a53bf1-adbe-4704-bd39-2825321bdf84,bouncy.music,premium,193.7,48.1,high,low,6,namecheap,,,23/09/2026 01:24
+67cd8f6a-e7d8-4beb-a7ca-27d21b8aed73,everest.music,premium,89.7,48.1,high,low,7,namecheap,,,01/10/2026 01:59
 8fca4444-7efe-4362-9101-b47cbc82a60e,agenesis.music,available,47.98,52.48,medium,low,8,namecheap,,,17/09/2026 17:08
+aae591dd-0386-475c-8437-059b4af06836,reunited.music,available,38.5,38.5,high,low,8,spaceship,,,30/09/2026 08:00
 b037fa64-9927-4a5a-a107-e239efaf69b8,tobin.music,premium,388.7,48.1,high,low,5,namecheap,,,28/09/2026 06:04
 a453887a-6972-4ffc-ae62-11f1751cdd60,muted.music,available,47.98,52.48,high,low,5,namecheap,,,21/08/2026 15:56
 a6d64bde-dba4-4914-bba6-9cf2876ce25b,adverbs.music,available,47.98,52.48,medium,low,7,namecheap,,,18/09/2026 21:42
 0ccf886b-d852-4a71-b72b-c02de3051bdc,umbilical.music,available,47.98,52.48,high,low,9,namecheap,,,11/09/2026 23:00
-7218fe00-1f9d-4430-87b6-f4d28c094590,stops.music,available,,,high,low,5,,,,
 4deff1bd-16b9-411f-badd-c8dffd37bf39,sise.music,available,47.98,52.48,medium,low,4,namecheap,,,
 bead8811-4dde-4cbf-a2d3-e62122bb7fb5,simplex.music,available,47.98,52.48,high,medium,7,namecheap,,,10/09/2026 08:15
 6f032a91-9182-4fe2-acca-ca1dd129dc70,mural.music,premium,388.7,48.1,high,low,5,namecheap,,,03/09/2026 11:00
 bb28dc7c-e17f-4953-b1eb-ddd01f23ea11,prandial.music,available,47.98,52.48,high,medium,8,namecheap,,,09/09/2026 01:04
 3c1f6743-358e-4ed7-aa61-44559dc0c677,wills.music,premium,723.67,38.5,medium,low,5,spaceship,,,29/09/2026 03:50
+f67b0181-d295-4c7b-b6a0-9b9fe5978bfa,wept.music,available,38.5,38.5,medium,low,4,spaceship,,,30/09/2026 14:19
 22343a33-6248-4ffb-8309-3130aa7ebe23,rooibos.music,available,47.98,52.48,medium,low,7,namecheap,,,20/09/2026 14:38
 4522e81a-eba2-4427-a0ab-9e87f553659e,ambiance.music,available,47.98,52.48,high,low,8,namecheap,,,18/09/2026 16:40
 237c27e2-32fc-4e4e-9ef6-5180d0354de7,belling.music,available,47.98,52.48,high,low,7,namecheap,,,23/09/2026 06:11
-dde6ed74-0c76-40a0-a569-86afeead7870,anyone.music,available,52.48,,medium,low,6,namecheap,,,
+dde6ed74-0c76-40a0-a569-86afeead7870,anyone.music,available,73.99,73.99,medium,low,6,godaddy,,,01/10/2026 00:39
 46bad089-07af-43cb-82b2-cdae96a42be1,zeroth.music,available,47.98,52.48,medium,low,6,namecheap,,,13/09/2026 15:14
 5b5b45e4-5965-43e6-af97-ab108b98e8ed,organised.music,available,47.98,52.48,high,low,9,namecheap,,,26/09/2026 00:28
 58a276b9-1bd2-4611-b9d1-db34fbfd1e26,vertically.music,available,74.99,74.99,medium,low,10,name.com,,,16/09/2026 10:53
@@ -207,23 +220,23 @@ eed56875-cc3a-4a3b-b3b2-3f97bd8b3afc,capability.music,available,47.98,52.48,high
 39a5ab74-9a4b-4930-a73d-ce44efa882a0,leaves.music,premium,89.7,48.1,medium,low,6,namecheap,,,08/09/2026 09:50
 b84adc0d-b71b-4b50-82fe-0e46b2376cb7,kidnapping.music,available,47.98,52.48,medium,low,10,namecheap,,,25/09/2026 08:11
 ca27b9c5-8161-4a1a-8f26-c7830b89700f,squares.music,premium,154.42,38.5,medium,low,7,spaceship,,,28/09/2026 23:48
-279b358e-5270-41d4-aad6-de7cb54628f9,pickings.music,available,47.98,52.48,high,low,8,namecheap,,,11/09/2026 07:21
+279b358e-5270-41d4-aad6-de7cb54628f9,pickings.music,available,47.98,52.48,medium,low,8,namecheap,,,11/09/2026 07:21
+5565c4b9-fb77-494d-99d7-c1958389bdc8,sacrificing.music,available,38.62,38.62,medium,low,11,porkbun,,,30/09/2026 14:38
 99daee00-b092-4dc7-8af8-dbca5343b934,isotopic.music,available,47.98,52.48,medium,low,8,namecheap,,,22/08/2026 11:26
 7ae450ea-b3c4-458c-973e-d501f3d2e6f4,caledonian.music,available,38.62,38.62,high,low,10,porkbun,,,28/09/2026 21:31
 4e234de0-8a9e-4d59-83a5-385ac1df77ff,icky.music,available,47.98,52.48,medium,low,4,namecheap,,,13/08/2026 05:07
+975baa6c-de7c-4b30-8553-c8a56153fdd6,ppi.music,premium,1448.17,38.5,high,low,3,spaceship,,,01/10/2026 05:12
 268b6877-dbf6-4a9b-a245-26e25740edf0,switching.music,available,38.5,38.5,high,low,9,spaceship,,,28/09/2026 06:49
 cd9a4ce5-ba86-45e2-9c58-217ad991e90a,campestral.music,available,47.98,52.48,medium,low,10,namecheap,,,11/08/2026 16:05
 fba3c675-44b4-4089-ae66-11be34a6b584,billhook.music,available,47.98,52.48,medium,low,8,namecheap,,,23/09/2026 16:21
 f35784ca-d363-4bf1-a782-26612abf4234,voluble.music,available,47.98,52.48,medium,low,7,namecheap,,,13/09/2026 06:59
 352d2778-8d02-49fe-bba0-844e31aafc7a,ardisia.music,available,47.98,52.48,medium,low,7,namecheap,,,20/09/2026 03:10
-ae8069c0-2232-4fa9-8613-7629f094c21c,crank.music,premium,186.25,46.25,high,low,5,name.com,,,13/08/2026 04:51
-9f887a3c-fc5a-4ba1-888f-34efe6c5abcf,haste.music,available,38.62,38.62,high,low,5,porkbun,,,27/09/2026 17:08
-6c9e9422-9b3f-45cd-9e1c-c8cfec60c51a,profession.music,available,,,high,low,10,,,,
-01c27d7b-4ba2-41e2-af61-e8a02f8e453a,vulgar.music,available,47.98,52.48,high,low,6,namecheap,,,14/08/2026 22:44
+ae8069c0-2232-4fa9-8613-7629f094c21c,crank.music,premium,186.25,46.25,medium,low,5,name.com,,,13/08/2026 04:51
+9f887a3c-fc5a-4ba1-888f-34efe6c5abcf,haste.music,available,38.62,38.62,medium,low,5,porkbun,,,27/09/2026 17:08
+01c27d7b-4ba2-41e2-af61-e8a02f8e453a,vulgar.music,available,47.98,52.48,medium,low,6,namecheap,,,14/08/2026 22:44
 016b472b-504b-4bb7-ab21-488d780f6b20,bogus.music,premium,86.25,46.25,medium,low,5,name.com,,,08/08/2026 22:58
 ed037646-2c33-42ec-9b45-9d94d1d97b21,unfunny.music,available,47.98,52.48,medium,low,7,namecheap,,,12/09/2026 11:05
 b608a4d7-abbf-475c-b673-ca52e05254fc,unwonted.music,available,47.98,52.48,low,low,8,namecheap,,,12/09/2026 22:48
-1117545c-0955-41e3-a7aa-116e6279af8a,claire.music,available,,,high,low,6,,,,
 2b3af635-be60-466e-a064-7a87903dd028,blackwash.music,available,47.98,52.48,low,low,9,namecheap,,,20/09/2026 15:47
 f835cb19-6a21-47d7-be25-eb17852c9f4c,acids.music,available,52.48,,medium,low,5,namecheap,,,
 aeb41001-3c53-48b3-ae72-129813fb5644,worthwhile.music,available,38.5,38.5,high,low,10,spaceship,,,28/09/2026 11:04
@@ -235,13 +248,15 @@ d79d635b-03c2-4aa7-9072-c0d6c6e5fa52,lepanto.music,available,47.98,52.48,medium,
 ccd05ee8-c8e8-450b-8c79-a4722e22178b,acorus.music,available,47.98,52.48,medium,low,6,namecheap,,,17/09/2026 02:25
 d30c2734-5ebd-44c9-bf1c-6a2e5cfc377e,chamomile.music,available,47.98,52.48,high,low,9,namecheap,,,19/09/2026 13:01
 362e13a9-0f89-45a8-a2d3-bf6a940824e0,wigeon.music,available,47.98,52.48,medium,low,6,namecheap,,,19/09/2026 03:00
-e497b938-424c-45c9-9e55-02cbc4e83277,montgomery.music,premium,1818.7,48.1,high,low,10,namecheap,,,16/09/2026 12:22
+75d8c9d2-5e46-42f6-adc1-9e43c64573e7,mobilize.music,available,47.98,52.48,high,low,8,namecheap,,,01/10/2026 04:12
+e497b938-424c-45c9-9e55-02cbc4e83277,montgomery.music,premium,1818.7,48.1,medium,low,10,namecheap,,,16/09/2026 12:22
 2e3bd753-6979-4e4d-b469-8e9aba26aa9b,dismount.music,available,47.98,52.48,high,low,8,namecheap,,,24/09/2026 22:48
 bea9e24e-5656-4837-b57e-6e20f12123a1,richest.music,available,38.5,38.5,medium,low,7,spaceship,,,28/09/2026 12:54
 dd8fe6cf-cc14-49eb-98b4-ac40b569b441,evrything.music,available,52.48,,medium,low,9,namecheap,,,
-082c3f74-39ad-4853-9036-dfe36c930ca0,ontogeny.music,available,47.98,52.48,high,low,8,namecheap,,,20/08/2026 20:29
+082c3f74-39ad-4853-9036-dfe36c930ca0,ontogeny.music,available,47.98,52.48,medium,low,8,namecheap,,,20/08/2026 20:29
 676e6371-42f8-48d7-824d-029dbd63b804,bighearted.music,available,47.98,52.48,high,low,10,namecheap,,,09/08/2026 20:48
 b03aadaf-f04f-4d0e-8d26-acda05aa9040,thb.music,premium,1818.7,48.1,high,low,3,namecheap,,,21/09/2026 14:19
+9ea1f9ce-577c-47b0-ad17-b678e2c2304b,amend.music,available,38.5,38.5,high,low,5,spaceship,,,01/10/2026 03:26
 82f4f45e-0055-4768-b5b7-6e48bdc663e7,chow.music,premium,723.67,38.5,high,low,4,spaceship,,,29/09/2026 00:25
 77549b6c-bd30-40b5-99f2-59052179f2f6,withdraw.music,available,47.98,52.48,high,low,8,namecheap,,,24/09/2026 19:10
 3d957cc8-86ca-4e7c-8451-6b33cb716df8,semirigid.music,available,47.98,52.48,medium,low,9,namecheap,,,10/09/2026 03:19
@@ -266,7 +281,6 @@ c05eb029-235c-4ec2-b7a1-8ce72539b054,matey.music,premium,186.25,46.25,medium,low
 74b55044-1f0a-4bbf-a74d-c0a29025c58f,woozy.music,available,47.98,52.48,medium,low,5,namecheap,,,14/08/2026 14:06
 1c59e5d0-59ab-42bd-871d-a3ee139f44ad,auteur.music,available,47.98,52.48,high,low,6,namecheap,,,21/09/2026 05:06
 6f410a01-7901-4b1a-9293-ba8ae694ca97,varicose.music,available,47.98,52.48,medium,low,8,namecheap,,,13/09/2026 01:20
-9af4cd25-43fb-4eaf-8cf3-45bc4ce6bbe6,memorize.music,available,13.99,,high,low,8,name.com,,,
 84413fb2-dbfc-46bc-8f20-ea5739dfda08,fulsome.music,available,47.98,52.48,medium,low,7,namecheap,,,11/08/2026 11:40
 3d21aa53-ab6e-4970-9435-7c91a67e0f74,laramie.music,available,38.5,38.5,medium,low,7,spaceship,,,28/09/2026 14:40
 e475bcd5-a781-4e20-93f1-70ca512b4515,twenties.music,available,74.99,74.99,high,low,8,name.com,,,16/09/2026 12:09
@@ -277,14 +291,13 @@ c84b9bd1-e59a-40fe-81e4-c74d7fc8495b,exceeding.music,available,47.98,52.48,high,
 92c2075b-6c5e-4910-a490-feef29b62508,designate.music,available,47.98,52.48,high,low,9,namecheap,,,14/08/2026 03:42
 c08143ed-8f3b-4477-8c1f-468e087c77ad,signally.music,available,47.98,52.48,medium,low,8,namecheap,,,16/09/2026 01:49
 1d453685-530c-42e2-bab8-7c9c584d22bf,batwing.music,available,47.98,52.48,medium,low,7,namecheap,,,09/08/2026 01:49
-8eb85237-76d4-4f80-ac88-b88a28bcd7ab,nonsense.music,available,47.98,52.48,high,low,8,namecheap,,,18/08/2026 23:48
+8eb85237-76d4-4f80-ac88-b88a28bcd7ab,nonsense.music,available,38.5,38.5,high,low,8,spaceship,,,30/09/2026 22:57
 b6c218f0-e500-467e-ba16-64d067923d5f,alary.music,available,47.98,52.48,medium,low,5,namecheap,,,
 105d0f29-e28b-4223-a2a6-c25650dfc620,hottest.music,available,38.5,38.5,medium,low,7,spaceship,,,28/09/2026 13:20
 1a535908-ddae-4c87-9f65-dd29df1c079c,slanting.music,available,47.98,52.48,medium,low,8,namecheap,,,07/08/2026 04:20
-03feede7-47d8-4eca-9f5a-d726bd8075d6,racetrack.music,available,52.48,,high,low,10,namecheap,,,
+03feede7-47d8-4eca-9f5a-d726bd8075d6,racetrack.music,available,47.98,52.48,high,low,10,namecheap,,,30/09/2026 18:25
 ff4bb33b-278b-478d-a9eb-ab2d2af3e106,anapurna.music,available,47.98,52.48,medium,low,8,namecheap,,,19/09/2026 02:22
-c7111f89-6056-413a-b1ba-0e39f38dddd3,region.music,available,,,high,low,6,,,,
-8265735c-7398-4ac3-83bb-1acaf4b0f27e,assur.music,available,47.98,52.48,high,low,5,namecheap,,,20/09/2026 16:41
+8265735c-7398-4ac3-83bb-1acaf4b0f27e,assur.music,available,47.98,52.48,medium,low,5,namecheap,,,20/09/2026 16:41
 2edc3ee2-6bd4-4a60-a678-711ebae213dc,bodiless.music,available,47.98,52.48,medium,low,8,namecheap,,,10/08/2026 16:48
 06cf4aed-b518-4c81-b7ef-52728a94f862,intercultural.music,available,52.48,,high,low,13,namecheap,,,
 e10543b9-f579-45cd-8a2c-97ad7ee9523f,bender.music,premium,908.7,48.1,high,low,6,namecheap,,,23/09/2026 07:44
@@ -294,6 +307,7 @@ a7b4b44f-fc09-4f36-8c4b-52d94c6e0e68,fiedler.music,premium,388.7,48.1,high,low,7
 1f64c1c9-99d2-47d1-8d4a-6d25d5c3a365,catapult.music,available,47.98,52.48,high,low,8,namecheap,,,20/09/2026 00:33
 af360719-a9af-4b43-826f-57c8dca7c530,sinus.music,available,38.5,38.5,high,low,5,spaceship,,,30/09/2026 02:53
 ff98e3b6-caf8-4b2e-a0e3-a425ce4b10ef,apricot.music,available,47.98,52.48,high,low,7,namecheap,,,19/09/2026 22:31
+e6b25169-ee0c-45d4-be31-66d860db88e1,galapagos.music,available,38.5,38.5,high,low,9,spaceship,,,30/09/2026 17:26
 5be3ae79-c6bc-4a8d-ab61-aa08baf964ca,deadlines.music,available,47.98,52.48,medium,low,9,namecheap,,,21/09/2026 08:50
 1acef505-041c-4ca9-8d4c-586bd3ba0eb5,haversack.music,available,47.98,52.48,high,low,9,namecheap,,,21/09/2026 14:43
 42c636b5-6f8b-430d-bce1-855322172901,dissolve.music,available,38.5,38.5,high,low,8,spaceship,,,29/09/2026 16:16
@@ -305,21 +319,25 @@ a73289b9-7dbb-437c-94f7-edbeffc1109a,tokugawa.music,available,47.98,52.48,low,lo
 9673e587-b34b-403c-937e-54c2af56a472,permitted.music,available,52.48,,high,low,9,namecheap,,,
 43c51e99-606c-4656-8022-35b9acd61eb8,flag.music,premium,89.7,48.1,high,low,4,namecheap,,,25/09/2026 00:12
 13da0c70-169b-4fab-a148-3182c1a3bde6,finds.music,available,47.98,52.48,high,low,5,namecheap,,,18/09/2026 15:38
+3f40a034-511e-48e5-9121-7fb3565f56c3,okada.music,premium,723.67,38.5,medium,low,5,spaceship,,,30/09/2026 20:35
 8b5cd208-7e3e-4a00-9361-f9bbf59f6392,longish.music,available,47.98,52.48,medium,low,7,namecheap,,,24/08/2026 09:40
 3a756ce8-b553-4c7a-9ea0-cf6026d5c399,gammy.music,available,47.98,52.48,medium,low,5,namecheap,,,18/08/2026 20:04
 495d4816-f855-4e60-b523-a0c7c0840b5d,confrontation.music,available,38.5,38.5,low,low,13,spaceship,,,28/09/2026 17:10
 f1dde966-0289-413f-a9c5-dceeeea2daaa,nance.music,available,47.98,52.48,medium,low,5,namecheap,,,09/09/2026 08:05
 e5bbdc11-9fa5-4dda-b085-17752d5b6eac,radioactive.music,available,38.5,38.5,medium,low,11,spaceship,,,28/09/2026 11:17
-6fad92ad-daf1-4acb-9803-c61a5e7fed71,expulsion.music,available,38.5,38.5,high,low,9,spaceship,,,30/09/2026 01:29
+6fad92ad-daf1-4acb-9803-c61a5e7fed71,expulsion.music,available,38.5,38.5,medium,low,9,spaceship,,,30/09/2026 01:29
 bbafe28f-1eed-4b9e-8296-3fb0789ffd8c,meade.music,premium,908.7,48.1,high,low,5,namecheap,,,27/09/2026 04:12
+c2c3e431-23f6-4611-bb10-30898579725f,emptied.music,available,38.5,38.5,medium,low,7,spaceship,,,01/10/2026 00:20
+f092cc2a-cfb3-491e-86ca-03e18c02cd9c,civilizations.music,available,39.81,39.81,medium,low,13,dynadot,,,01/10/2026 01:05
 ff3729cc-3e01-4a0f-bd17-eccec028672f,rusted.music,available,47.98,52.48,medium,low,6,namecheap,,,09/09/2026 20:17
 3617dc17-4448-4a59-bb57-8035ececb54e,institutions.music,available,39.81,39.81,medium,low,12,dynadot,,,29/09/2026 16:24
+ae41f517-01b8-4875-bd06-73dfd1761a83,corridors.music,available,38.5,38.5,medium,low,9,spaceship,,,30/09/2026 15:34
 b00398e2-e132-4c59-9c25-bef6b6af3ec9,adjectives.music,available,47.98,52.48,medium,low,10,namecheap,,,18/09/2026 16:11
 480be280-98b3-4cc5-9793-87d78dd14b62,berry.music,premium,908.7,48.1,high,low,5,namecheap,,,23/09/2026 10:10
 36a29f1a-d4fb-4d7f-8ec3-3257117ec7f8,unmined.music,available,47.98,52.48,medium,low,7,namecheap,,,12/09/2026 15:41
 33be317b-6077-48ce-bb5f-a8c3f63b3f53,upchuck.music,available,47.98,52.48,high,medium,7,namecheap,,,10/09/2026 07:41
 cb973f83-8d03-4f25-ace8-d42fa62b8303,unbooked.music,available,47.98,52.48,medium,low,8,namecheap,,,12/09/2026 02:19
-83b66d10-5461-4545-b7f6-b767d237ac88,montfort.music,available,38.62,38.62,high,low,8,porkbun,,,30/09/2026 01:27
+83b66d10-5461-4545-b7f6-b767d237ac88,montfort.music,available,38.62,38.62,medium,low,8,porkbun,,,30/09/2026 01:27
 28ac82db-58d4-4833-890c-2fbcf3835877,nonexempt.music,available,47.98,52.48,medium,low,9,namecheap,,,03/09/2026 19:09
 a7246229-44fe-41a9-ab92-01b13b4f2179,anglophobe.music,available,47.98,52.48,medium,low,10,namecheap,,,19/09/2026 06:55
 e6874739-6aa2-4e3d-aa84-e08867c22d5a,unlaced.music,available,47.98,52.48,medium,low,7,namecheap,,,12/09/2026 14:37
@@ -327,9 +345,10 @@ e6874739-6aa2-4e3d-aa84-e08867c22d5a,unlaced.music,available,47.98,52.48,medium,
 dceeba3e-ea64-4f03-909f-4d623afeef11,lyons.music,premium,1818.7,48.1,high,low,5,namecheap,,,25/09/2026 06:03
 e3286d08-cb76-4744-b875-89fb01f9a343,flogging.music,available,47.98,52.48,medium,low,8,namecheap,,,22/08/2026 20:16
 5304e7a8-193f-4148-844c-f5488c1f1471,bearnaise.music,available,47.98,52.48,medium,low,9,namecheap,,,22/09/2026 21:23
+f6abecf4-881a-4879-af9a-c0dc489a0b78,cubes.music,available,38.5,38.5,medium,low,5,spaceship,,,30/09/2026 16:21
 cd955541-0dca-4ec9-a2a8-b52067f1f971,owning.music,available,47.98,52.48,medium,low,6,namecheap,,,20/09/2026 00:32
 8ebd2482-199c-4363-bd51-42410dcadf99,dominoes.music,available,47.98,52.48,high,low,8,namecheap,,,24/09/2026 23:28
-34070836-cd9c-4b90-9a4f-243a4ef2ef4a,sat.music,available,,,high,low,3,,,,
+34070836-cd9c-4b90-9a4f-243a4ef2ef4a,sat.music,premium,1818.7,48.1,high,low,3,namecheap,,,30/09/2026 10:30
 9c500b97-9966-4e6e-abce-be289b7d1d2f,banana.music,premium,723.67,38.5,high,medium,6,spaceship,,,29/09/2026 00:54
 ab59eb52-0862-4c35-981d-e294a3d07790,bridget.music,premium,723.67,38.5,high,low,7,spaceship,,,29/09/2026 04:09
 eecafbab-c225-4377-b947-2465423663ae,anabatic.music,available,47.98,52.48,medium,low,8,namecheap,,,
@@ -337,8 +356,10 @@ bbc6d51d-61ef-4fe5-99b6-4b96c3c1de3d,bivalent.music,available,47.98,52.48,high,l
 bd863e97-2fad-4df9-a5dd-0af4665e18de,glacier.music,available,47.98,52.48,high,low,7,namecheap,,,29/09/2026 19:03
 f64d0e6e-8fbd-427e-bcc6-4067619e6cd4,tougher.music,available,38.5,38.5,medium,low,7,spaceship,,,29/09/2026 11:36
 a92373d2-c193-44c5-ba95-537edd9e59fa,shelton.music,premium,193.7,48.1,medium,low,7,namecheap,,,27/09/2026 01:50
+e8af4838-acb6-4be4-8172-084e0a40323e,iit.music,premium,908.7,48.1,high,low,3,namecheap,,,30/09/2026 04:30
 fa3bb4b2-0923-4fd5-867c-e526694a16c9,scheduling.music,premium,71.62,38.5,high,low,10,spaceship,,,29/09/2026 02:34
 670b8a52-7b25-46be-bf1b-5bda379dfef7,lightweight.music,available,52.48,,high,low,11,namecheap,,,
+fb7925d9-093a-400d-a33a-fa2d82729f7c,valuables.music,available,38.5,38.5,high,low,9,spaceship,,,30/09/2026 23:28
 5a971ff8-be15-407e-87cd-9fe7e0dfab0e,tempra.music,premium,908.7,48.1,medium,low,6,namecheap,,,16/09/2026 23:57
 31a70aa0-b2df-4306-9e0c-c55a06c2c16e,skag.music,available,47.98,52.48,medium,low,4,namecheap,,,23/09/2026 14:39
 4ef02e0d-a716-40de-87e4-ecce91aae414,aquavit.music,available,47.98,52.48,medium,low,7,namecheap,,,18/09/2026 00:16
@@ -354,47 +375,53 @@ ee53654c-7309-41a9-b620-c335ce5b7361,labelled.music,available,47.98,52.48,medium
 622a71c6-1a09-4fc8-8f70-2c07eaa96548,galling.music,available,47.98,52.48,high,low,7,namecheap,,,
 a96f79ad-dbca-4581-9fcf-0069f9fe3400,topical.music,available,47.98,52.48,high,low,7,namecheap,,,11/09/2026 17:42
 5a90d556-020e-4362-afb9-2ce014f9cdfc,crone.music,premium,89.7,48.1,medium,low,5,namecheap,,,23/09/2026 04:47
+2ffa7a47-1eb3-445d-b969-90fcca9b266b,rutherford.music,premium,723.67,38.5,medium,low,10,spaceship,,,01/10/2026 01:41
 c798e626-cd45-423d-a51d-63a9c4d67c43,mock.music,premium,873.75,46.25,high,low,4,name.com,,,25/08/2026 02:24
 67451e1f-7ea8-4185-8e10-87595eba7032,vestigial.music,available,47.98,52.48,medium,low,9,namecheap,,,13/09/2026 04:54
 dd76be0c-696a-46fe-94cb-55991c90d224,malabar.music,available,38.5,38.5,high,low,7,spaceship,,,29/09/2026 09:09
 8c7a70c6-b200-46d9-aef1-98f68e40d311,francois.music,premium,3248.7,48.1,high,low,8,namecheap,,,27/09/2026 07:39
 28f135ca-1bbc-4b0f-a9cb-1afbd31b2181,plundered.music,available,47.98,52.48,medium,low,9,namecheap,,,24/08/2026 09:47
+87be65c2-4ea5-4f8f-841b-7aa4130f3086,durations.music,available,39.81,39.81,low,low,9,dynadot,,,30/09/2026 07:29
 74532e00-b3c2-4d45-9deb-4482c353b66d,fusty.music,available,47.98,52.48,low,low,5,namecheap,,,18/08/2026 16:42
 540f60df-c8ef-41bd-b964-26c841f727a0,schweitzer.music,premium,89.7,48.1,high,low,10,namecheap,,,18/09/2026 02:40
 e86c969a-64c9-45a2-8ed0-118c39c3686b,francisca.music,available,,,high,low,9,,,,
 b74fb8bd-e5bb-4390-a83e-f6addaf257f1,included.music,available,47.98,52.48,high,low,8,namecheap,,,22/08/2026 01:33
+1599c7c3-4ef8-461d-b6e4-a9d1322e281b,farber.music,premium,154.42,38.5,medium,low,6,spaceship,,,30/09/2026 21:50
 fe35e34e-e2a1-4467-9c1c-4a211571a398,wegener.music,premium,193.7,48.1,medium,low,7,namecheap,,,18/09/2026 06:39
 eb6163c8-e2c5-4094-b17f-aed75419c3bc,morose.music,available,47.98,52.48,medium,low,6,namecheap,,,20/08/2026 15:01
 6a3e95e7-3975-45af-8c69-63f7db254807,augmentin.music,available,47.98,52.48,medium,low,9,namecheap,,,18/09/2026 22:59
 9f8ad9c3-9419-4bf8-af72-c831f6bc0acb,beryl.music,premium,908.7,48.1,medium,low,5,namecheap,,,23/09/2026 10:23
 2eef9245-8bae-47e5-85cf-68cb7027752b,prospects.music,available,47.98,52.48,medium,low,9,namecheap,,,29/09/2026 05:24
 60d7fab6-2f3c-45a9-8466-b9e9c05bf4d6,winthrop.music,available,39.81,39.81,high,low,8,dynadot,,,27/09/2026 19:50
+48ef2e8c-1de4-49cc-a76f-df33a075c575,galaxies.music,premium,163.18,40.92,high,low,8,porkbun,,,30/09/2026 14:49
 3404249b-1669-4b02-aa4f-56c208199f60,forfeiture.music,available,47.98,52.48,medium,low,10,namecheap,,,18/08/2026 11:45
 558bac30-b00e-4cd9-80e2-01c0529cb8dc,barilla.music,available,47.98,52.48,high,medium,7,namecheap,,,22/09/2026 05:52
 3f5cc8d3-6952-42d6-b8eb-e6ec1272757d,confirmation.music,available,39.81,39.81,high,low,12,dynadot,,,28/09/2026 04:27
 f3a98f8a-1833-418e-8f79-8ccc4d022184,stoneless.music,available,47.98,52.48,medium,low,9,namecheap,,,10/09/2026 21:12
 a3c56247-1486-4e99-a504-d8f4d3d6635d,fema.music,available,39.81,39.81,medium,low,4,dynadot,,,29/09/2026 00:53
-a9ed76aa-7b90-45de-8c65-d88f1f983660,possession.music,available,52.48,,high,low,10,namecheap,,,
-3fabc33f-45ba-49cd-97eb-068daba5587c,schoolbook.music,available,47.98,52.48,high,low,11,namecheap,,,19/09/2026 07:03
+a9ed76aa-7b90-45de-8c65-d88f1f983660,possession.music,available,38.5,38.5,high,low,10,spaceship,,,30/09/2026 05:10
+3fabc33f-45ba-49cd-97eb-068daba5587c,schoolbook.music,available,47.98,52.48,medium,low,11,namecheap,,,19/09/2026 07:03
 5358ef75-b633-44e2-92d2-bf2020d3e9d0,holdup.music,available,47.98,52.48,medium,low,6,namecheap,,,20/09/2026 06:37
-c53c92f2-058f-429d-a07d-7b80e75d33d4,print.music,available,,,high,medium,5,,,,
+c53c92f2-058f-429d-a07d-7b80e75d33d4,print.music,premium,723.67,38.5,high,medium,5,spaceship,,,30/09/2026 06:43
 c4166d2a-2d21-4b0d-ac07-b5593bc980b6,sensorial.music,available,47.98,52.48,medium,low,9,namecheap,,,10/09/2026 03:46
+92bf0604-f83d-47f2-8a3d-0c94fd857d51,settlers.music,available,38.5,38.5,medium,low,8,spaceship,,,30/09/2026 06:58
 5824d9b7-3bc9-40bf-9534-c80cb08bab57,appalled.music,available,47.98,52.48,medium,low,8,namecheap,,,
 92be705d-baab-4172-bd7a-5327273e2f81,lenten.music,available,47.98,52.48,medium,low,6,namecheap,,,22/08/2026 23:48
 15921ca1-e9c3-432d-ba78-490818558f6b,separately.music,available,47.98,52.48,medium,low,10,namecheap,,,15/09/2026 08:00
 247f23ea-da7e-49ff-82a9-1fd011e17a23,xli.music,premium,873.75,46.25,medium,low,3,name.com,,,
-f0558698-2a4a-4f17-b903-9db01a4aebda,pillowcase.music,available,52.48,,high,low,11,namecheap,,,
+f0558698-2a4a-4f17-b903-9db01a4aebda,pillowcase.music,available,52.48,,medium,low,11,namecheap,,,
 634e00ba-3d50-4c7a-9de3-2754fd3ce306,rpg.music,premium,723.67,38.5,high,low,3,spaceship,,,29/09/2026 20:51
 4c6ee8be-584c-42f4-83a4-e5a9de4684c1,constance.music,premium,723.67,38.5,medium,low,9,spaceship,,,28/09/2026 18:26
 a9604ade-41ee-4752-a87c-abf12c3f9533,recluse.music,available,47.98,52.48,high,low,7,namecheap,,,09/09/2026 11:38
 1dca50d2-5ca8-498a-90ea-46f426792373,beadle.music,premium,193.7,48.1,medium,low,6,namecheap,,,22/09/2026 19:31
-113b9326-d32d-4b14-88b5-9e3c5cb192c2,complicated.music,available,52.48,,high,low,11,namecheap,,,
+113b9326-d32d-4b14-88b5-9e3c5cb192c2,complicated.music,available,38.5,38.5,high,low,11,spaceship,,,01/10/2026 01:52
 bda7cce3-d488-4eb0-b92d-e871837e1b9a,swinburne.music,available,47.98,52.48,medium,low,9,namecheap,,,18/09/2026 07:03
 3c20f712-5b52-4487-9352-1d4ab8900de3,aesthesia.music,available,47.98,52.48,medium,low,9,namecheap,,,17/09/2026 13:26
 1e9f6cfe-9f58-48e6-ac18-7a3053dba68a,furnished.music,available,47.98,52.48,high,low,9,namecheap,,,18/08/2026 18:50
 204f6f80-88cd-4111-9118-56fb94b89690,stayed.music,available,47.98,52.48,medium,low,6,namecheap,,,27/09/2026 02:56
 dc2b875a-a460-47e8-96a5-a94c5e5d14d4,fiducial.music,available,47.98,52.48,medium,low,8,namecheap,,,18/08/2026 03:40
 bc24e1d4-845a-430b-abe7-c07964c6785b,lookup.music,available,,,high,low,7,,,,
+f87a4f4e-d51f-4fc5-b055-36aa422bb06c,relates.music,available,39.81,39.81,medium,low,7,dynadot,,,01/10/2026 00:18
 42818738-1df7-4c8b-b817-507ac2b6dfd3,decent.music,premium,186.25,46.25,high,low,6,name.com,,,09/08/2026 06:17
 443cb067-6f91-4994-8808-fe2f7bde56f5,ports.music,available,38.62,38.62,high,low,5,porkbun,,,29/09/2026 09:54
 4e9581fc-5f5b-4b42-b2d0-24664841e2a7,sugarless.music,available,47.98,52.48,medium,low,9,namecheap,,,19/09/2026 15:11
@@ -402,9 +429,9 @@ bc24e1d4-845a-430b-abe7-c07964c6785b,lookup.music,available,,,high,low,7,,,,
 9e96f2da-39ab-4bdb-94bf-80910260a564,wha.music,premium,908.7,48.1,medium,low,3,namecheap,,,29/09/2026 14:45
 d0b272b9-d22b-433d-b642-ba1c668debbd,syrup.music,available,38.5,38.5,high,low,5,spaceship,,,28/09/2026 06:44
 34ec35aa-128a-4ae0-9624-10b2150b48fc,committing.music,available,52.48,,high,low,10,namecheap,,,
-f29f7d8b-e8cc-4a79-861b-4e3fadd55372,perforation.music,available,52.48,,high,low,11,namecheap,,,
+f29f7d8b-e8cc-4a79-861b-4e3fadd55372,perforation.music,available,52.48,,medium,low,11,namecheap,,,
 27e52e6c-c98a-4e8e-ac5a-83712bb4ab17,starving.music,available,47.98,52.48,medium,low,8,namecheap,,,10/09/2026 19:04
-0beef6f0-61d7-4bbd-a489-3386a61358d1,heck.music,premium,1248.75,,high,low,4,name.com,,,
+0beef6f0-61d7-4bbd-a489-3386a61358d1,heck.music,premium,309.67,38.5,high,low,4,spaceship,,,01/10/2026 01:34
 a56453e8-a25f-4a3d-9cc9-2d1b02d04a1b,smashed.music,available,47.98,52.48,medium,low,7,namecheap,,,09/08/2026 15:50
 bea9d1e8-ec7c-43b6-8cc5-b702d7e7cacf,eligible.music,premium,373.75,46.25,high,low,8,name.com,,,16/08/2026 04:35
 56d0212f-695f-485c-a872-5cb04274e138,localised.music,available,47.98,52.48,medium,low,9,namecheap,,,24/08/2026 08:47
@@ -429,15 +456,17 @@ d55b0d5c-9d4b-4499-896b-bc6fae24fc03,anubis.music,premium,89.7,48.1,medium,low,6
 a6faaf15-7313-42a0-a3c6-eb1995a72d14,stating.music,available,52.48,,high,low,7,namecheap,,,
 efe6d3d9-4f84-4332-b8ed-7fb72ab185a8,manzoni.music,available,47.98,52.48,high,low,7,namecheap,,,18/09/2026 05:31
 e1bf41d3-a9e6-4f43-8b55-ba20fa539a24,astronomic.music,available,47.98,52.48,medium,low,10,namecheap,,,07/08/2026 10:10
-f81509df-b3b2-4eb6-b165-ca26b4cbbc32,racing.music,available,,,high,low,6,,,,
-eaee8625-0281-4e58-b5e6-db9ff1e26c8c,crumbly.music,available,47.98,52.48,high,low,7,namecheap,,,13/08/2026 09:02
+49e30d10-f3da-47e2-a212-a4d21051f977,dominguez.music,premium,2586.67,38.5,medium,low,9,spaceship,,,30/09/2026 13:47
+eaee8625-0281-4e58-b5e6-db9ff1e26c8c,crumbly.music,available,47.98,52.48,medium,low,7,namecheap,,,13/08/2026 09:02
+55207be8-9fae-4ffc-80bd-bb2fe0883671,experimented.music,available,38.5,38.5,medium,low,12,spaceship,,,30/09/2026 07:34
+99d45cd6-b12c-4849-b4f7-2d823fecc2b8,asses.music,available,38.5,38.5,low,low,5,spaceship,,,30/09/2026 15:16
 d9dd46d0-3664-4bce-83dd-484b660be2e7,residue.music,available,47.98,52.48,high,low,7,namecheap,,,09/09/2026 15:05
 bfe0c6ad-0832-4591-b18e-45f687f8c23e,hawkes.music,premium,71.62,38.5,high,low,6,spaceship,,,29/09/2026 15:44
 81eb1402-94ab-4fd6-b710-fbd3a7ea6a8c,infra.music,available,47.98,52.48,high,low,5,namecheap,,,15/09/2026 08:17
 8f44715a-10e9-4263-b511-3fd641891933,enwrapped.music,available,47.98,52.48,medium,low,9,namecheap,,,
 480aa412-d110-4615-b957-aa869b89a123,xliv.music,available,47.98,52.48,medium,low,4,namecheap,,,
 2cff6723-ab37-4940-bcce-8d2a8adac8eb,imply.music,available,39.81,39.81,high,low,5,dynadot,,,29/09/2026 00:48
-4c5c674a-3529-4a08-9c2d-1f249c255516,mcnamara.music,premium,908.7,48.1,high,low,8,namecheap,,,27/09/2026 08:09
+4c5c674a-3529-4a08-9c2d-1f249c255516,mcnamara.music,premium,908.7,48.1,medium,low,8,namecheap,,,27/09/2026 08:09
 c0f5de00-d9a7-4954-b5a1-9e0fce81e07e,covariant.music,available,47.98,52.48,medium,low,9,namecheap,,,13/08/2026 04:05
 63b119cd-1074-4004-93ac-b6087fbe1d6d,quarters.music,available,39.81,39.81,high,low,8,dynadot,,,30/09/2026 03:03
 9633939f-60c5-4ff3-abaf-44ab40caa840,whir.music,available,47.98,52.48,high,low,4,namecheap,,,13/09/2026 11:30
@@ -445,10 +474,11 @@ c0f5de00-d9a7-4954-b5a1-9e0fce81e07e,covariant.music,available,47.98,52.48,mediu
 2e3a978b-2720-4b99-ba92-6eade25d80af,thoughtless.music,available,52.48,,medium,low,11,namecheap,,,
 4f6edbf4-04de-4f1c-a19e-40b8a71d4107,gpo.music,premium,723.67,38.5,high,low,3,spaceship,,,29/09/2026 12:57
 66d899e2-d455-4807-9e77-af21a19ea1f7,guys.music,available,,,high,low,4,,,,
-64dcebe6-9842-45d1-afa1-d0a5449e2665,bragg.music,available,47.98,52.48,high,low,5,namecheap,,,25/09/2026 21:58
+64dcebe6-9842-45d1-afa1-d0a5449e2665,bragg.music,available,47.98,52.48,medium,low,5,namecheap,,,25/09/2026 21:58
 6410f034-f9cb-4c6d-b411-9d0498d76850,curatorial.music,available,47.98,52.48,medium,low,10,namecheap,,,13/08/2026 11:03
 d2d71cca-af7b-45ae-8ceb-59440fc073e5,baker.music,premium,3248.7,48.1,high,low,5,namecheap,,,21/09/2026 20:17
 b6181a2e-f1ef-48fe-9bdb-468ac5f6f0d8,panoplied.music,available,47.98,52.48,medium,low,9,namecheap,,,06/08/2026 21:42
+e43452e0-e565-4870-ad89-3d1616406a49,hershey.music,available,38.62,38.62,high,low,7,porkbun,,,01/10/2026 02:30
 e94fd0a7-e6b4-4413-9bc4-c959bfb57260,chevron.music,available,47.98,52.48,high,low,7,namecheap,,,24/09/2026 14:21
 c3d10b78-b60a-41a5-8ec4-3da2b4973e32,xoxoxo.music,available,52.48,,high,low,6,namecheap,,,
 c38d82ea-4aea-47cf-bc7d-5060bdd51afd,miniature.music,available,47.98,52.48,high,low,9,namecheap,,,24/08/2026 23:48
@@ -463,7 +493,7 @@ d48bb28f-d6bc-467d-a5ad-eef350420fbd,grabbed.music,available,47.98,52.48,medium,
 3e5d9006-5b83-4bc1-9933-581b2a97107f,workmanship.music,available,47.98,52.48,high,low,11,namecheap,,,16/09/2026 08:15
 5728c5be-c504-41fa-ab06-c3468f782e8c,entertained.music,available,39.81,39.81,medium,low,11,dynadot,,,29/09/2026 10:59
 6540cdc3-4e0f-4391-85a9-d6f99c5e7230,turnovers.music,available,47.98,52.48,medium,low,9,namecheap,,,19/09/2026 22:02
-298d1c17-0881-4681-bd6f-4f7909b765d8,attended.music,available,47.98,52.48,high,low,8,namecheap,,,22/09/2026 11:17
+298d1c17-0881-4681-bd6f-4f7909b765d8,attended.music,available,47.98,52.48,medium,low,8,namecheap,,,22/09/2026 11:17
 80560155-5945-40dc-9f70-ed1882850544,hypaethral.music,available,47.98,52.48,medium,low,10,namecheap,,,21/08/2026 16:39
 bf870853-c3f2-456b-ac30-f045b15036b8,bellis.music,available,47.98,52.48,high,low,6,namecheap,,,23/09/2026 06:15
 774ef0c7-d7ac-490c-ae23-cc8c7e36a818,argos.music,available,47.98,52.48,high,medium,5,namecheap,,,20/09/2026 04:43
@@ -472,7 +502,6 @@ e0e24c69-d239-4bb2-88fc-f5b0cadd7358,vesture.music,available,47.98,52.48,medium,
 54a11fa3-a8a9-46a0-b176-1956543b3fcd,whorehouse.music,available,47.98,52.48,medium,low,10,namecheap,,,21/09/2026 18:13
 4e586dc1-9bc4-405d-b209-e286f97e950a,dove.music,premium,89.7,48.1,high,low,4,namecheap,,,10/09/2026 17:16
 6892bd32-17bf-4fae-a9df-a692b11b426f,timeworn.music,available,47.98,52.48,medium,low,8,namecheap,,,08/08/2026 11:14
-8c865052-2be0-48fd-a622-bd8156f139c3,perform.music,available,,,high,low,7,,,,
 b88eea8c-c51d-4493-b5e0-7c43c2199e4b,semitropic.music,available,47.98,52.48,medium,low,10,namecheap,,,10/09/2026 03:36
 6e9de2f7-e929-4bb4-bf43-3f33d2bb2f07,cerium.music,available,47.98,52.48,medium,low,6,namecheap,,,14/09/2026 06:07
 2544a7a7-ba6d-4a8b-9b4c-003398a15161,ties.music,available,47.98,52.48,medium,low,4,namecheap,,,17/09/2026 21:46
@@ -482,6 +511,7 @@ b88eea8c-c51d-4493-b5e0-7c43c2199e4b,semitropic.music,available,47.98,52.48,medi
 1ccf4703-ba17-4ff1-a086-f4ae6e5f5e19,hyalin.music,available,47.98,52.48,medium,low,6,namecheap,,,21/08/2026 16:10
 c30b39a6-6670-41a3-8a10-57c4fc5ca967,astheny.music,available,47.98,52.48,low,low,7,namecheap,,,20/09/2026 17:17
 dcf34e11-4f02-4d22-9822-88e54b78f46c,septuple.music,available,47.98,52.48,medium,low,8,namecheap,,,10/09/2026 04:23
+434334ef-f6b0-45b9-89eb-006a23bcb12f,ves.music,premium,723.67,38.5,high,low,3,spaceship,,,30/09/2026 04:22
 31d17b4a-466b-4832-8671-36b203041228,bimodal.music,available,47.98,52.48,medium,low,7,namecheap,,,09/08/2026 23:23
 19457434-1023-4e66-9caf-01b8ffeb4ba7,incipient.music,available,47.98,52.48,medium,low,9,namecheap,,,22/08/2026 01:14
 b0e59dba-319e-4dd3-a7d7-64da9892d922,silicon.music,available,47.98,52.48,high,low,7,namecheap,,,20/09/2026 22:24
@@ -493,7 +523,7 @@ fefce2f8-d4c5-4d41-83c9-4ca364940bb6,jiang.music,premium,3248.7,48.1,high,low,5,
 5a457fb6-ae45-48dc-b039-20ede586625a,meteor.music,premium,163.9,39.81,high,low,6,dynadot,,,29/09/2026 01:39
 3a397fa8-5165-4672-9654-52d9028eca02,lowbred.music,available,47.98,52.48,low,low,7,namecheap,,,10/08/2026 22:02
 2a6e8ac1-cbd4-4400-8b37-4fb74d890245,carambola.music,available,47.98,52.48,medium,low,9,namecheap,,,21/09/2026 09:14
-be2a3f20-3d85-402c-b670-fb33e0987747,recounting.music,available,47.98,52.48,high,low,10,namecheap,,,11/09/2026 10:26
+be2a3f20-3d85-402c-b670-fb33e0987747,recounting.music,available,47.98,52.48,medium,low,10,namecheap,,,11/09/2026 10:26
 e7797381-45a4-4883-bcf5-74581b03151d,threaded.music,available,47.98,52.48,high,low,8,namecheap,,,11/09/2026 14:12
 b4cbc6ca-f55a-47c8-8d65-bad6e19839d6,bookish.music,available,47.98,52.48,high,low,7,namecheap,,,10/08/2026 19:09
 a4528acb-12f1-4f06-81b4-352e4bc06393,augustus.music,premium,908.7,48.1,high,low,8,namecheap,,,21/09/2026 04:02
@@ -511,38 +541,43 @@ a1b96932-93d8-4451-b184-99c2f92c769a,pergamon.music,available,38.5,38.5,medium,l
 5d4cef2b-6d7c-486d-91d9-ce5cc2e80163,applecart.music,available,47.98,52.48,medium,low,9,namecheap,,,19/09/2026 21:32
 451ecdae-70ff-4fa7-9a12-20e231d67d99,fossil.music,available,47.98,52.48,high,medium,6,namecheap,,,18/08/2026 13:05
 3366afe1-cefe-4782-addf-70e0fe5f3b32,antitoxic.music,available,47.98,52.48,medium,low,9,namecheap,,,05/08/2026 19:55
+e924738b-433f-492b-bfec-e23304a6fecc,prentiss.music,available,39.81,39.81,medium,low,8,dynadot,,,30/09/2026 22:09
 4d96d72c-af48-410a-af28-25aa0507c76c,clipper.music,available,47.98,52.48,high,low,7,namecheap,,,24/09/2026 15:46
 2d31cced-4025-471b-9f68-a9ea5c007e8b,liberated.music,available,47.98,52.48,high,low,9,namecheap,,,16/08/2026 06:20
 9ad579f5-10f1-4d25-9927-03dec940b4b2,annona.music,available,47.98,52.48,medium,low,6,namecheap,,,19/09/2026 10:30
 e0be04d6-92e1-49ca-a0b8-620d9b0f336d,vigilant.music,premium,193.7,48.1,high,low,8,namecheap,,,04/09/2026 16:01
 e3908272-709b-42c4-a388-cfeccb56a5f7,pissed.music,available,,,medium,low,6,,,,
+0fc1d1da-4d8a-47de-8ca4-8645519bda5f,minna.music,premium,768.9,39.81,medium,low,5,dynadot,,,01/10/2026 06:17
 8f2482ef-c71e-410a-84a3-bf5f2a2fa73b,salmagundi.music,available,47.98,52.48,medium,low,10,namecheap,,,25/08/2026 08:22
 18150c33-e4d2-4001-818a-6c0bf9b9576a,heartsease.music,available,47.98,52.48,medium,low,10,namecheap,,,20/09/2026 19:40
 6177e214-de09-4f77-9639-53e37602d986,attractor.music,available,47.98,52.48,high,low,9,namecheap,,,21/09/2026 02:12
 372bec89-99c0-4ee2-b3ab-bc47df5e06cd,damnable.music,available,74.99,74.99,medium,low,8,name.com,,,13/08/2026 16:29
 2fe7fcd4-5c01-42f7-9547-1fca71c82bbc,wisent.music,available,47.98,52.48,medium,low,6,namecheap,,,21/09/2026 04:34
-1108c009-7971-488a-9f6a-673c25421bc3,devote.music,available,52.48,,high,low,6,namecheap,,,
-4c03302c-a971-49e9-ac7d-d06a0ea8fb54,manchurian.music,available,47.98,52.48,high,low,10,namecheap,,,24/08/2026 14:34
-ed0f4eae-091c-4bf8-8da3-00fc4feeef58,pervert.music,available,74.99,74.99,high,low,7,name.com,,,23/09/2026 23:54
+1108c009-7971-488a-9f6a-673c25421bc3,devote.music,available,38.5,38.5,high,low,6,spaceship,,,30/09/2026 18:31
+4c03302c-a971-49e9-ac7d-d06a0ea8fb54,manchurian.music,available,47.98,52.48,medium,low,10,namecheap,,,24/08/2026 14:34
+ed0f4eae-091c-4bf8-8da3-00fc4feeef58,pervert.music,available,74.99,74.99,medium,low,7,name.com,,,23/09/2026 23:54
 c892f7c4-aede-472d-a093-158130735441,elmira.music,premium,723.67,38.5,medium,low,6,spaceship,,,28/09/2026 16:42
 4c3b3e41-7d74-415f-ac1e-c52924f2f411,drained.music,available,47.98,52.48,medium,low,7,namecheap,,,14/08/2026 18:17
 2d3ec724-9d89-46aa-b9f5-6a64dfccc7cf,successive.music,available,47.98,52.48,high,low,10,namecheap,,,10/09/2026 04:29
 51f20b26-7d93-4c51-8709-593906fab168,segmented.music,available,47.98,52.48,medium,low,9,namecheap,,,24/08/2026 21:43
 9c71014c-4f50-4507-a23b-a15c60ce5c2c,carob.music,available,47.98,52.48,medium,low,5,namecheap,,,18/09/2026 06:50
 d7345b33-7ab9-4943-9717-65360ec6d5a3,alphavirus.music,available,47.98,52.48,medium,low,10,namecheap,,,18/09/2026 13:47
+5eac2f7b-95e5-4d2e-86fa-9f271c3dc316,hayley.music,premium,1448.17,38.5,high,low,6,spaceship,,,30/09/2026 13:14
 16f5699d-3d50-4b7e-ab63-f1df798b51a0,believer.music,available,47.98,52.48,high,low,8,namecheap,,,23/09/2026 05:13
 985c90ed-d843-401e-9e01-ff6507e2d43e,bawler.music,available,47.98,52.48,medium,low,6,namecheap,,,22/09/2026 16:58
-1e2555b5-cef4-4ee4-9719-a6cae1abcb3d,gustavus.music,available,38.5,38.5,high,low,8,spaceship,,,29/09/2026 07:07
+1e2555b5-cef4-4ee4-9719-a6cae1abcb3d,gustavus.music,available,38.5,38.5,medium,low,8,spaceship,,,29/09/2026 07:07
 7aa1acc2-0eac-4c42-b41e-2ccb9d6c48a1,unwearable.music,available,47.98,52.48,medium,low,10,namecheap,,,12/09/2026 22:31
-1c28dbd4-51f6-45a6-928c-7ff570b971e7,hawkins.music,premium,908.7,48.1,high,low,7,namecheap,,,28/09/2026 09:24
-4ffd832a-f817-4d8a-91bd-b512067070bd,expedite.music,available,52.48,,high,low,8,namecheap,,,
+1c28dbd4-51f6-45a6-928c-7ff570b971e7,hawkins.music,premium,908.7,48.1,medium,low,7,namecheap,,,28/09/2026 09:24
+4ffd832a-f817-4d8a-91bd-b512067070bd,expedite.music,available,38.5,38.5,high,low,8,spaceship,,,30/09/2026 19:31
 33d3eb85-205a-437e-8a43-54f777589dfb,phantasmal.music,available,47.98,52.48,medium,low,10,namecheap,,,06/08/2026 05:33
+9d97e52d-9231-43b8-afdb-b9f4b7a6a6e2,firefighters.music,available,38.5,38.5,medium,low,12,spaceship,,,01/10/2026 00:47
 b07c0574-39df-4cd6-be2b-8bc4acae0129,engulf.music,available,47.98,52.48,medium,low,6,namecheap,,,10/09/2026 19:51
 cf4d60f1-af57-4814-9673-3ec34b6f638d,bilirubin.music,available,47.98,52.48,medium,low,9,namecheap,,,23/09/2026 15:56
 98a10fd0-bc71-4cda-8eff-8ab7a0bdc300,transferred.music,available,38.5,38.5,medium,low,11,spaceship,,,27/09/2026 22:38
 261e793a-fbe2-40db-8fdc-a46a74400631,inflected.music,available,47.98,52.48,medium,low,9,namecheap,,,22/08/2026 04:31
 19971cd3-d102-4e10-9358-4610a4de5d57,teachable.music,available,47.98,52.48,high,low,9,namecheap,,,11/09/2026 09:34
 f6b1a83c-cae8-4e21-85ec-42b186975197,turner.music,premium,2728.58,40.92,high,low,6,porkbun,,,29/09/2026 00:58
+e0c575d0-8d2b-4f73-9a77-0bb858a6d66d,flores.music,premium,3248.7,48.1,high,low,6,namecheap,,,30/09/2026 21:30
 db8fa660-5cac-4503-a87c-2f3879f599e4,atopy.music,available,47.98,52.48,medium,low,5,namecheap,,,21/09/2026 00:33
 f9f16e9c-c563-4898-aa39-93de7ef8c96c,dues.music,available,74.99,74.99,high,low,4,name.com,,,19/09/2026 19:46
 dbc1d46c-26b9-43c8-8fe8-f2877297e768,boxed.music,premium,373.75,46.25,high,low,5,name.com,,,11/08/2026 00:02
@@ -553,17 +588,20 @@ dbc1d46c-26b9-43c8-8fe8-f2877297e768,boxed.music,premium,373.75,46.25,high,low,5
 e9665592-5161-475a-9643-b68cd4ad2ff9,epidermic.music,available,74.99,74.99,medium,low,9,name.com,,,13/08/2026 13:09
 3a4740f6-46be-4510-93c9-0ad28e400990,alkalinity.music,available,47.98,52.48,medium,low,10,namecheap,,,18/09/2026 08:19
 e58d5456-4e4a-49a6-a805-4213c992e652,sham.music,premium,873.75,46.25,medium,low,4,name.com,,,07/08/2026 08:06
-70fb4bdb-6bce-4f23-a80f-72bd3616d47c,neandertal.music,available,47.98,52.48,high,low,10,namecheap,,,10/08/2026 19:30
+70fb4bdb-6bce-4f23-a80f-72bd3616d47c,neandertal.music,available,47.98,52.48,medium,low,10,namecheap,,,10/08/2026 19:30
+b90799d3-dc5a-4ca9-aa30-a1ee7de2a27e,minerals.music,available,39.81,39.81,high,low,8,dynadot,,,30/09/2026 06:24
 db255e09-610e-4c5c-94f9-f7b1d1899938,glaswegian.music,available,47.98,52.48,medium,low,10,namecheap,,,20/08/2026 14:14
-d11db108-5d96-41a7-ac75-b769145a6f07,changeover.music,available,52.48,,high,low,11,namecheap,,,
+d11db108-5d96-41a7-ac75-b769145a6f07,changeover.music,available,52.48,,medium,low,11,namecheap,,,
 31225280-9738-4ca7-bba4-e686b70f387b,unmixed.music,available,47.98,52.48,high,low,7,namecheap,,,12/09/2026 06:02
 1f2087a0-59a1-4e84-931d-26394faefd23,pith.music,available,47.98,52.48,high,low,4,namecheap,,,14/09/2026 23:55
 30d07dbe-cb35-480e-af32-c729e4771a18,ioc.music,premium,763.59,40.92,high,low,3,porkbun,,,28/09/2026 07:36
 af532d64-0b9a-422b-b6b7-b6a5cb57ec76,minors.music,premium,723.67,38.5,high,low,6,spaceship,,,29/09/2026 18:08
 b7ce55f0-851f-4e34-85a2-b8fca70aa98d,necessities.music,available,52.48,,medium,low,11,namecheap,,,
 ba8778e1-ad3e-4310-b14d-11b198efc50a,mete.music,premium,373.75,46.25,high,low,4,name.com,,,10/08/2026 19:54
+699432fe-6238-42fe-995b-3c7ad9f262a2,upgraded.music,available,38.5,38.5,high,low,8,spaceship,,,30/09/2026 16:15
 d5384089-fe4c-4fad-8ee0-20eb7a236cc2,bjp.music,available,,,high,low,3,,,,
-e8436f2f-3cbe-4c47-980b-71409e83a427,lii.music,available,,,high,low,3,,,,
+e8436f2f-3cbe-4c47-980b-71409e83a427,lii.music,available,,,medium,low,3,,,,
+ffad2db0-9a07-42c8-b0a8-9e2fcce4898d,quilt.music,available,38.5,38.5,high,low,5,spaceship,,,01/10/2026 03:24
 e6660cf8-d62d-4f74-9dc0-b7a2399af0d7,caoutchouc.music,available,47.98,52.48,high,medium,10,namecheap,,,09/09/2026 19:12
 a1c6d922-10cf-453f-8036-261f2b3bd281,bontemps.music,premium,186.25,46.25,high,low,8,name.com,,,20/09/2026 08:07
 dba58b59-93e2-41c4-b65b-28410207dd19,unblushing.music,available,47.98,52.48,medium,low,10,namecheap,,,10/09/2026 05:55
@@ -576,6 +614,7 @@ bdd75801-7dd5-4d22-815f-6dcfd3ce98d3,damask.music,available,74.99,74.99,medium,l
 0cd34099-d31c-422a-ac85-711e27bbc97c,bland.music,premium,89.7,48.1,medium,low,5,namecheap,,,22/09/2026 21:44
 b7e620ff-36f0-4119-a689-cde4d0aaaebe,vermicular.music,available,47.98,52.48,medium,low,10,namecheap,,,13/09/2026 02:27
 61689e97-4384-4b9c-80c0-cde1f0608969,preparing.music,available,47.98,52.48,high,low,9,namecheap,,,27/09/2026 06:40
+95fa7bd0-d25c-4ddf-9d9c-98383160d933,subsaharan.music,available,47.98,52.48,medium,low,11,namecheap,,,30/09/2026 12:27
 cf260bc6-8de0-4aaa-8bf4-2328ead6e67c,twinkly.music,available,,,medium,low,7,,,,
 d2a53455-189a-4240-92ca-c369cd342469,lewis.music,premium,1818.7,48.1,high,low,5,namecheap,,,25/09/2026 03:55
 f63262e1-41e9-4901-925d-50feae1172f2,sniffly.music,available,47.98,52.48,high,medium,7,namecheap,,,10/09/2026 12:35
@@ -595,26 +634,26 @@ ea1eb99e-90c9-49fc-af3c-2a46ed067f6c,acrosome.music,available,47.98,52.48,medium
 11d78317-6117-433c-a38f-de219a0b7ece,airfield.music,available,47.98,52.48,high,low,8,namecheap,,,17/09/2026 23:09
 4160688a-7864-42f4-b46c-207b106a79d2,scraggy.music,available,47.98,52.48,medium,low,7,namecheap,,,22/08/2026 12:02
 21a827d0-9e5c-4969-bb6e-2e0462d42392,lakh.music,premium,186.25,46.25,medium,low,4,name.com,,,21/08/2026 15:36
-77b0106b-db5f-4242-9d6b-64e024c5d62b,hillsdale.music,available,38.62,38.62,high,low,9,porkbun,,,29/09/2026 22:46
+77b0106b-db5f-4242-9d6b-64e024c5d62b,hillsdale.music,available,38.62,38.62,medium,low,9,porkbun,,,29/09/2026 22:46
 376d3b15-3101-48d5-bc21-fbb05e3bf6eb,stiff.music,available,47.98,52.48,medium,low,5,namecheap,,,09/08/2026 16:54
 b6d8df5c-84f9-4493-b77a-bef890db94d7,lutzen.music,premium,388.7,48.1,medium,low,6,namecheap,,,22/09/2026 15:24
 b152467e-ccac-45a6-b6f1-8dd6b74905dd,reebok.music,available,52.48,,high,low,6,namecheap,,,
 49e7f244-cf26-464b-9533-bb21e195603e,counseled.music,available,47.98,52.48,medium,low,9,namecheap,,,20/09/2026 16:45
 a9dd535d-cad7-4c85-9a7e-da1230504f7f,pretender.music,available,47.98,52.48,high,low,9,namecheap,,,08/09/2026 19:12
-47145d4b-3f64-4bf0-81e4-d812a0af1bf7,norfolk.music,available,,,high,low,7,,,,
 2c60a858-a215-4379-906f-aecb32c8ea47,flooded.music,available,47.98,52.48,high,low,7,namecheap,,,08/08/2026 00:23
 82ad7a6c-6da3-49ea-88ff-670f39d23bca,liang.music,premium,2586.67,38.5,high,low,5,spaceship,,,29/09/2026 22:32
-6afee343-a55d-4aa1-869b-4d4074e135e0,provision.music,available,52.48,,high,low,9,namecheap,,,
+6afee343-a55d-4aa1-869b-4d4074e135e0,provision.music,available,39.81,39.81,high,low,9,dynadot,,,30/09/2026 08:49
 d6d7ad38-5829-4ebe-b064-cc6f2a7e2c06,overstep.music,available,47.98,52.48,medium,low,8,namecheap,,,11/09/2026 17:25
 e284e34b-d2f5-4809-b280-3a668dc8a98e,astrometry.music,available,47.98,52.48,medium,low,10,namecheap,,,20/09/2026 17:53
 444c6a03-254a-4412-be64-797ab5f0d128,mildly.music,available,47.98,52.48,medium,low,6,namecheap,,,15/09/2026 14:43
 0bb9898d-b42c-4c07-ba08-c8175ba66cf2,bite.music,premium,388.7,48.1,high,low,4,namecheap,,,08/09/2026 13:01
 7b089c45-3bea-44b3-a9e9-2ee8d358d577,clicking.music,available,52.48,,high,low,8,namecheap,,,
 07774744-d9be-4f20-afb0-d5cb59c9cc7c,promotes.music,available,47.98,52.48,medium,low,8,namecheap,,,16/09/2026 11:54
-4fbd5abc-4321-41df-b1ab-6931e1972e84,alloyed.music,available,47.98,52.48,high,low,7,namecheap,,,
-120fa611-6aab-46c9-8fc2-1e9bb6a62e0e,anterior.music,available,47.98,52.48,high,low,8,namecheap,,,
+4fbd5abc-4321-41df-b1ab-6931e1972e84,alloyed.music,available,47.98,52.48,medium,low,7,namecheap,,,
+120fa611-6aab-46c9-8fc2-1e9bb6a62e0e,anterior.music,available,47.98,52.48,medium,low,8,namecheap,,,
 79761cf6-44bd-4ec0-81b4-37f6eafdc557,ninefold.music,available,47.98,52.48,medium,low,8,namecheap,,,03/09/2026 17:31
 b9f3aa5a-978b-4c2c-bc38-ff845d949a20,catarrhine.music,available,47.98,52.48,medium,low,10,namecheap,,,11/08/2026 21:11
+873a68ee-ad3e-4be3-a588-d86d61f58a97,gatt.music,premium,723.67,38.5,medium,low,4,spaceship,,,30/09/2026 09:53
 83d56736-b7a3-4eb8-9d32-6d44949dc783,decorations.music,available,38.5,38.5,medium,low,11,spaceship,,,28/09/2026 23:03
 2560d5fd-3133-4909-b99f-6471f4158d97,tourists.music,available,74.99,74.99,high,low,8,name.com,,,18/09/2026 07:30
 95d93db0-a4aa-431c-9445-f7cee346c7ee,burred.music,available,47.98,52.48,medium,low,6,namecheap,,,08/08/2026 17:23
@@ -624,30 +663,34 @@ e1e2e123-889a-4186-bda5-351e708ff299,donnish.music,available,47.98,52.48,low,low
 580965f8-d85d-4abc-938d-cf32ef4ee83b,blate.music,available,47.98,52.48,medium,low,5,namecheap,,,10/08/2026 13:35
 cea9b63d-5ba5-4ab6-b3ab-955cbf55c4bf,packet.music,premium,908.7,48.1,high,low,6,namecheap,,,24/09/2026 11:14
 1a511ce9-fd23-4e8e-9959-206e1d707f8b,adscript.music,available,47.98,52.48,medium,low,8,namecheap,,,
-4e8e084b-5c90-4243-92dc-07256f280dd7,wooded.music,available,47.98,52.48,high,low,6,namecheap,,,13/09/2026 13:11
+4e8e084b-5c90-4243-92dc-07256f280dd7,wooded.music,available,47.98,52.48,medium,low,6,namecheap,,,13/09/2026 13:11
 c3caa40a-79f6-4a90-911b-cfad1263a69c,provinces.music,available,47.98,52.48,medium,low,9,namecheap,,,18/09/2026 15:35
 46b4233c-48b9-4c23-ba9c-c4ecd36a1c3d,penrose.music,available,38.62,38.62,medium,low,7,porkbun,,,29/09/2026 04:22
-8159366d-1804-41c0-ad7b-a9d57a2c8126,removable.music,available,47.98,52.48,high,low,9,namecheap,,,03/09/2026 23:44
-09fb1efb-d531-4a6a-840b-dbe887beafef,whitman.music,available,38.5,38.5,high,low,7,spaceship,,,29/09/2026 13:23
+8159366d-1804-41c0-ad7b-a9d57a2c8126,removable.music,available,47.98,52.48,medium,low,9,namecheap,,,03/09/2026 23:44
+09fb1efb-d531-4a6a-840b-dbe887beafef,whitman.music,available,38.5,38.5,medium,low,7,spaceship,,,29/09/2026 13:23
+cc0b9d3d-9b2f-4fac-a1ac-69fad8e1ffa0,laguna.music,premium,309.67,38.5,high,low,6,spaceship,,,30/09/2026 10:22
 7ac091a4-f274-4c27-86e1-8da137f11429,stalking.music,available,38.5,38.5,medium,low,8,spaceship,,,28/09/2026 20:33
 2317e1b9-50cf-4b43-ba9c-5e68f89f5369,allophonic.music,available,47.98,52.48,high,low,10,namecheap,,,
 0398809e-7b88-41aa-8e42-2df03abf34c3,juristic.music,available,47.98,52.48,medium,low,8,namecheap,,,22/08/2026 14:37
 f3ac70cb-3d71-48af-9a19-ba7e5b89beff,untucked.music,available,47.98,52.48,low,low,8,namecheap,,,12/09/2026 21:50
-f09b29e2-1a16-4e8a-928d-8e495ef6212d,accountancy.music,available,52.48,,high,low,11,namecheap,,,
+f09b29e2-1a16-4e8a-928d-8e495ef6212d,accountancy.music,available,52.48,,medium,low,11,namecheap,,,
 034095e2-fcfe-4fc0-97e0-ac62cf6b513a,roasted.music,available,38.62,38.62,high,low,7,porkbun,,,27/09/2026 15:50
 80a98a32-0847-44b3-8c53-3ce25bd2bda6,sarcoid.music,available,47.98,52.48,high,medium,7,namecheap,,,09/09/2026 21:28
 6bcb79de-deef-4462-a1fe-3f74e3bd548e,starkly.music,available,47.98,52.48,medium,low,7,namecheap,,,16/09/2026 06:57
-f6f559c3-d8ad-4d60-920a-84c45560f8ab,pimento.music,available,47.98,52.48,high,low,7,namecheap,,,23/09/2026 05:37
+f6f559c3-d8ad-4d60-920a-84c45560f8ab,pimento.music,available,47.98,52.48,medium,low,7,namecheap,,,23/09/2026 05:37
 76465f72-5772-4b71-8a1c-5797abdd1fa8,proves.music,available,47.98,52.48,medium,low,6,namecheap,,,18/09/2026 07:04
 660b70b2-c57e-4a31-9701-b400adc38c4a,ironlike.music,available,47.98,52.48,medium,low,8,namecheap,,,22/08/2026 10:10
 e15a4185-ce5d-4dd3-816f-484f6f21b063,bondage.music,available,38.5,38.5,high,low,7,spaceship,,,29/09/2026 18:02
 93376ffe-fb92-483a-a73e-14d2166dbfe4,virtually.music,available,38.5,38.5,high,low,9,spaceship,,,28/09/2026 11:56
+fb5d9f4c-88f0-427d-849f-667292a21025,slid.music,available,38.62,38.62,medium,low,4,porkbun,,,30/09/2026 14:18
 d925dd48-4af3-4e26-9ccb-3407c52d13cd,streak.music,premium,908.7,48.1,high,low,6,namecheap,,,27/09/2026 11:41
-f306789f-e428-4720-85b3-929005261a83,prodigious.music,available,47.98,52.48,high,low,10,namecheap,,,12/08/2026 17:58
+13ef4a13-4659-4365-946d-ab876a628708,borland.music,premium,193.7,48.1,medium,low,7,namecheap,,,30/09/2026 21:58
+f306789f-e428-4720-85b3-929005261a83,prodigious.music,available,47.98,52.48,medium,low,10,namecheap,,,12/08/2026 17:58
 b49c47b4-be70-4ce2-b1b1-51fa230bf39e,amanuensis.music,available,47.98,52.48,medium,low,10,namecheap,,,18/09/2026 15:49
 b7aa3f4e-5021-4679-bebf-70a62144b14f,pete.music,available,,,high,low,4,,,,
 d6f779c6-4e98-45a2-bd66-d8dac766a0fd,landward.music,available,47.98,52.48,medium,low,8,namecheap,,,15/09/2026 10:39
 18265104-a550-4bf0-b79a-b8ef0b8f8072,songster.music,available,47.98,52.48,high,low,8,namecheap,,,21/09/2026 22:38
+06900d3e-bd71-41c7-b60f-3332ca46e4ac,furness.music,available,47.98,52.48,medium,low,7,namecheap,,,30/09/2026 05:24
 d26caad9-e103-463b-95f0-187a1be8ba76,archosaur.music,available,47.98,52.48,medium,low,9,namecheap,,,06/08/2026 15:57
 6c41acc1-7a9d-4bfc-8d6e-feb3d77ab75f,noncitizen.music,available,47.98,52.48,medium,low,10,namecheap,,,
 79bfdc39-2f5e-4b09-a56c-669c3597ba5c,schemes.music,available,38.62,38.62,medium,low,7,porkbun,,,29/09/2026 17:00
@@ -659,6 +702,7 @@ cd7610d6-3ab5-4bc5-a332-6cf7e6b81641,arabian.music,available,,,high,low,7,,,,
 6149c363-05bc-445c-9d83-e79c2dc2ac47,winy.music,available,47.98,52.48,medium,low,4,namecheap,,,13/09/2026 12:25
 e93cbae8-b7eb-49f6-a5ad-8cdaed480e16,affix.music,available,47.98,52.48,high,low,5,namecheap,,,17/09/2026 14:37
 2aae875a-4915-4e12-93e0-d824a7e2d108,remembered.music,available,47.98,52.48,high,low,10,namecheap,,,17/09/2026 12:04
+bd1fed46-a9ec-4548-8ecb-0c120ccdb2b0,centerville.music,available,38.62,38.62,medium,low,11,porkbun,,,30/09/2026 22:06
 0137c93e-b0c4-48c9-939c-12a5d31fc939,draws.music,available,47.98,52.48,high,low,5,namecheap,,,
 9b39e499-4292-4af5-9a14-58923d162cbd,spiffy.music,available,74.99,74.99,high,low,6,name.com,,,13/08/2026 17:36
 4f2e7e6b-b979-4bd9-9f3d-9551fdd021fc,blanquillo.music,available,47.98,52.48,medium,low,10,namecheap,,,24/09/2026 04:04
@@ -668,11 +712,12 @@ cf5e3aa1-f6da-4644-9cec-ce5f07b2e847,buren.music,available,38.5,38.5,medium,low,
 ae89f9f1-7f7c-4b40-8d4f-41e20d43bdb1,clearly.music,premium,89.7,48.1,high,low,7,namecheap,,,28/09/2026 13:55
 abcfd72c-9c13-4ddf-ab44-b3448088bc27,opponent.music,available,47.98,52.48,high,low,8,namecheap,,,04/09/2026 16:36
 8868ba3e-554d-4f86-b1e7-55090c1e0809,asea.music,premium,89.7,48.1,medium,low,4,namecheap,,,10/09/2026 01:04
-b1b15e33-8e90-4b42-b894-c02bfe5b8fd3,bedrest.music,available,47.98,52.48,high,low,7,namecheap,,,22/09/2026 23:03
-1c221502-c012-4f43-88c9-5d162671afed,billie.music,premium,1818.7,48.1,high,low,6,namecheap,,,28/09/2026 07:55
+b1b15e33-8e90-4b42-b894-c02bfe5b8fd3,bedrest.music,available,47.98,52.48,medium,low,7,namecheap,,,22/09/2026 23:03
+1c221502-c012-4f43-88c9-5d162671afed,billie.music,premium,1818.7,48.1,medium,low,6,namecheap,,,28/09/2026 07:55
 176c9084-6d69-4f5c-8ac6-44553fc14cdf,armando.music,premium,2586.67,38.5,medium,low,7,spaceship,,,29/09/2026 11:42
 c3ce1d29-1a3d-4b36-81c3-798f47c68927,gertrude.music,premium,1448.17,38.5,medium,low,8,spaceship,,,28/09/2026 21:50
 a6bf366b-c7cb-4a40-b550-8c17fec7b1e7,securing.music,available,52.48,,medium,low,8,namecheap,,,
+a117f74a-e476-4bd8-b23c-46d07ba6f6ca,troopers.music,available,47.98,52.48,medium,low,8,namecheap,,,30/09/2026 16:00
 745852d5-f69f-4374-80b7-045155bf6096,plainly.music,available,47.98,52.48,high,low,7,namecheap,,,08/09/2026 20:28
 d7792d98-ad35-47c9-9243-85cc0d8f9a2e,unidentified.music,available,38.5,38.5,medium,low,12,spaceship,,,28/09/2026 08:18
 c8fca8cc-d938-4714-a966-e857f599656f,alidad.music,premium,193.7,48.1,medium,low,6,namecheap,,,18/09/2026 07:31
@@ -687,13 +732,15 @@ f45fa167-1440-48c0-88c9-718ceba602ce,orphanage.music,available,38.5,38.5,medium,
 858d9fca-7c58-4760-949c-d7cd13f85102,constitute.music,available,39.81,39.81,high,low,10,dynadot,,,29/09/2026 13:09
 b2637201-aa22-4a3f-8a85-7c4b3b9aa367,agouti.music,available,47.98,52.48,medium,low,6,namecheap,,,17/09/2026 19:07
 d1652840-2f5e-434b-ac0e-d09ac8fa17c6,tractive.music,available,47.98,52.48,medium,low,8,namecheap,,,11/09/2026 18:40
-01a85b0d-d448-4ad9-9ab6-b286fab72217,firefighter.music,available,52.48,,high,low,11,namecheap,,,
+01a85b0d-d448-4ad9-9ab6-b286fab72217,firefighter.music,available,47.98,52.48,high,low,11,namecheap,,,30/09/2026 23:57
 eb9dcfb4-c420-46c4-be10-6da8efad77e1,legitimize.music,available,47.98,52.48,high,low,10,namecheap,,,04/09/2026 05:07
 58af6c24-15e7-42a7-b2fd-a2604687634a,jolson.music,premium,89.7,48.1,medium,low,6,namecheap,,,18/09/2026 01:21
 c4d7a431-f59f-47c7-8df6-0c64196ec967,overcast.music,available,47.98,52.48,high,low,8,namecheap,,,12/08/2026 12:29
-5ca6f7b7-02fc-41d0-977c-8631c12ef450,structure.music,premium,309.67,38.5,high,low,9,spaceship,,,28/09/2026 04:24
+5ca6f7b7-02fc-41d0-977c-8631c12ef450,structure.music,premium,309.67,38.5,high,low,9,spaceship,,,30/09/2026 21:12
 e46981a6-bc50-4f22-a657-4f77fbdb32c9,svelte.music,available,47.98,52.48,high,low,6,namecheap,,,24/08/2026 01:16
+186e4fb7-9dc1-4634-afc7-52963b6abc88,packers.music,available,38.5,38.5,medium,low,7,spaceship,,,01/10/2026 01:07
 74421ac4-966a-4665-9d8b-49efbc6c088e,scroll.music,available,47.98,52.48,high,low,6,namecheap,,,24/09/2026 20:30
+e3db17d2-a316-490c-a854-ba25bacc0ba1,isoforms.music,available,38.5,38.5,medium,low,8,spaceship,,,30/09/2026 07:43
 7a4cd578-8856-4ee0-bc5b-b50b914e0430,arcadian.music,available,,,high,low,8,,,,
 a6acaa01-623f-4be6-8c3d-b32078759d8d,emotive.music,available,,,high,low,7,,,,
 e5336eec-aaa1-48d7-9b5f-d2b77c0e04c1,bilsted.music,available,47.98,52.48,medium,low,7,namecheap,,,18/09/2026 20:49
@@ -702,6 +749,7 @@ e5336eec-aaa1-48d7-9b5f-d2b77c0e04c1,bilsted.music,available,47.98,52.48,medium,
 0a4706c1-2fc3-47a7-ba39-9a6d743c870f,authorization.music,available,39.81,39.81,medium,low,13,dynadot,,,28/09/2026 08:21
 9b65165b-fd07-414a-be92-21225ac74776,emoji.music,available,,,high,low,5,,,,
 875edeac-9f03-4868-b764-1da56f082dcb,godzilla.music,available,74.99,74.99,high,medium,8,name.com,,,19/09/2026 06:09
+b1ce4199-8bf2-44d7-8b44-c8e08077b9a1,depict.music,available,38.5,38.5,high,low,6,spaceship,,,30/09/2026 19:11
 625bdeeb-52ad-4e40-801e-b2ceff1ce115,standon.music,available,52.48,,medium,low,8,namecheap,,,
 af83a63b-b17d-4a5c-ae31-d57b2a1a920f,coptic.music,available,47.98,52.48,high,low,6,namecheap,,,13/08/2026 00:36
 43bb835d-9424-4224-91d4-f90108348e43,outlined.music,available,47.98,52.48,high,low,8,namecheap,,,04/09/2026 19:31
@@ -712,30 +760,33 @@ b2759d02-c335-4b9c-acf0-e633a92a66a7,pronghorn.music,available,47.98,52.48,mediu
 5b2704c6-fb36-42d8-83ac-7df2caed50e5,detained.music,available,47.98,52.48,low,low,8,namecheap,,,29/09/2026 05:25
 ee4b31b9-c657-49b1-98fb-d92f90c0ecf9,hypnagogic.music,available,47.98,52.48,medium,low,10,namecheap,,,21/08/2026 17:03
 c7e511f1-606e-4701-b063-ce0ccae93313,ownerless.music,available,47.98,52.48,medium,low,9,namecheap,,,04/09/2026 22:18
+a1ce9153-e822-4f18-bf4b-47b3246aeb33,appealed.music,available,38.62,38.62,medium,low,8,porkbun,,,30/09/2026 07:01
+20032453-a240-4ebf-8b2c-c2f8f9d6b0a6,cementing.music,available,47.98,52.48,medium,low,9,namecheap,,,30/09/2026 07:44
 244ec79c-4b9d-4d6c-8f6c-8a00a71d36c4,unfailing.music,available,47.98,52.48,high,low,9,namecheap,,,18/08/2026 10:39
 067a7b3b-b62d-416e-a793-eccb6f50aba4,routledge.music,available,47.98,52.48,medium,low,9,namecheap,,,28/09/2026 16:54
 1662161e-aa00-48f8-aae9-cd3ff154d6d6,baccharis.music,available,47.98,52.48,medium,low,9,namecheap,,,21/09/2026 14:00
-18414964-9da0-45bf-b26e-64d7706162a4,questionable.music,available,38.5,38.5,high,low,12,spaceship,,,29/09/2026 02:59
+18414964-9da0-45bf-b26e-64d7706162a4,questionable.music,available,38.5,38.5,medium,low,12,spaceship,,,29/09/2026 02:59
 99184dcb-2d38-4ee8-bcac-91a0511ffb01,credible.music,available,47.98,52.48,high,low,8,namecheap,,,09/08/2026 12:56
 e4fbfdd4-bbf9-4ef9-8f5f-394574210d34,abbatial.music,available,47.98,52.48,medium,low,8,namecheap,,,
-5d1b7a68-514b-4fa3-b9a1-8eb9173e88b9,nitrous.music,available,47.98,52.48,high,low,7,namecheap,,,08/08/2026 03:03
+d41e6270-dbe3-40b8-8038-a7a855845d22,accumulated.music,available,39.81,39.81,medium,low,11,dynadot,,,30/09/2026 22:32
+5d1b7a68-514b-4fa3-b9a1-8eb9173e88b9,nitrous.music,available,47.98,52.48,medium,low,7,namecheap,,,08/08/2026 03:03
 3e04cf30-4bd3-4847-8ce9-7ac1aa1b1782,underived.music,available,47.98,52.48,medium,low,9,namecheap,,,12/09/2026 07:29
 641a48d5-8832-4dc8-8a4b-333bf6b9103e,assouan.music,premium,89.7,48.1,medium,low,7,namecheap,,,20/09/2026 16:37
 c89b1865-80fc-4f2e-a5dc-f394764a89bb,studied.music,available,47.98,52.48,high,low,7,namecheap,,,10/09/2026 22:59
 7e0b74ad-56b0-4a1f-83ef-47daa4344a8e,prosthetic.music,available,47.98,52.48,high,low,10,namecheap,,,09/09/2026 03:55
 6e2bd532-901d-4158-b62d-66e2929d2e80,antibiotic.music,available,47.98,52.48,high,low,10,namecheap,,,22/09/2026 06:14
 0a959c5c-7b63-4286-beb4-ddf277c5a5a9,crownless.music,available,47.98,52.48,medium,low,9,namecheap,,,13/08/2026 08:38
-832ced5a-99a0-4b3c-b6d6-7cb85de41cc2,wax.music,available,,,high,low,3,,,,
 82391950-732c-4ac9-bd8a-9a48542066be,dangerously.music,available,38.5,38.5,medium,low,11,spaceship,,,29/09/2026 14:40
 94c49148-fa5b-4938-8a18-fd29f7488e52,branching.music,available,47.98,52.48,high,low,9,namecheap,,,11/08/2026 02:08
 697e28fe-33ae-4d78-973d-3e65c259ca8b,manipulated.music,available,38.5,38.5,medium,low,11,spaceship,,,29/09/2026 16:09
 1ebf97a9-f835-4a6f-a910-8e4dc28da655,creditors.music,available,47.98,52.48,medium,low,9,namecheap,,,20/09/2026 15:31
 a07d2f73-a5a9-4a8f-a5fc-7c5f2b8ac012,lipitor.music,available,47.98,52.48,high,low,7,namecheap,,,21/09/2026 00:35
 bc5f5f74-bbe2-488f-a50c-ed8df2dd53f0,fungible.music,available,47.98,52.48,medium,low,8,namecheap,,,18/08/2026 18:32
-9c2781f9-e6f7-4e8b-b906-ecb711793c57,nicene.music,available,47.98,52.48,high,low,6,namecheap,,,03/09/2026 17:01
+9c2781f9-e6f7-4e8b-b906-ecb711793c57,nicene.music,available,47.98,52.48,medium,low,6,namecheap,,,03/09/2026 17:01
 a45bd21d-adae-4ded-b484-b8ff185b1bb0,hotfoot.music,available,47.98,52.48,high,low,7,namecheap,,,09/09/2026 19:44
 d273b7de-2de2-4859-aba1-0bccf51c4f94,belongings.music,available,47.98,52.48,high,low,10,namecheap,,,23/09/2026 06:56
 f75b4ccf-37f7-41a8-bd60-01bd0a17f399,byrnes.music,premium,309.67,38.5,medium,low,6,spaceship,,,29/09/2026 09:19
+47424d93-08de-4bdd-869c-c1fbabb96be8,dipping.music,available,38.62,38.62,high,low,7,porkbun,,,30/09/2026 14:42
 bc3ffd77-5b4c-40d1-8f13-d0520ec58231,richland.music,available,38.5,38.5,medium,low,8,spaceship,,,28/09/2026 08:10
 6a3840c5-f9f6-463f-8b01-117412506ade,abelia.music,available,47.98,52.48,medium,low,6,namecheap,,,16/09/2026 15:02
 73dfa2ee-5cc1-4072-bc42-5a6674c815fc,amiable.music,premium,193.7,48.1,high,low,7,namecheap,,,21/09/2026 21:32
@@ -751,29 +802,31 @@ a5e01c0e-7821-413d-85b7-7148038b80af,clitoris.music,available,47.98,52.48,high,l
 f395fca0-97b8-4ef8-958f-a6e81bf489a3,albitic.music,available,47.98,52.48,medium,low,7,namecheap,,,
 481d9f7a-9570-4a6a-86aa-e39ce7dd399c,steaming.music,available,47.98,52.48,medium,low,8,namecheap,,,10/09/2026 19:42
 3588e257-d8ae-46c2-9bc7-bf22e97f4210,countywide.music,available,47.98,52.48,high,low,10,namecheap,,,13/08/2026 03:48
-241084ed-a2e8-43fb-b572-28de955fb42b,animalia.music,available,47.98,52.48,high,low,8,namecheap,,,19/09/2026 08:37
+241084ed-a2e8-43fb-b572-28de955fb42b,animalia.music,available,47.98,52.48,medium,low,8,namecheap,,,19/09/2026 08:37
 af9cf93d-f664-43d5-a2ab-ddce27f52be4,colonel.music,available,47.98,52.48,high,low,7,namecheap,,,27/09/2026 03:33
+b57df3b4-adac-4515-b041-b9c66fa490a2,clegg.music,premium,71.62,38.5,medium,low,5,spaceship,,,30/09/2026 16:44
 b624d283-0d56-4e4a-b65e-40b70411b4c1,drains.music,available,38.5,38.5,medium,low,6,spaceship,,,29/09/2026 17:12
 49b8b408-d6a9-4882-bccb-33eb6e9a9734,cca.music,premium,1818.7,48.1,high,low,3,namecheap,,,29/09/2026 03:53
-05e25dcf-d35c-423a-b842-295ed33cab26,cordate.music,available,47.98,52.48,high,low,7,namecheap,,,13/08/2026 00:50
+05e25dcf-d35c-423a-b842-295ed33cab26,cordate.music,available,47.98,52.48,medium,low,7,namecheap,,,13/08/2026 00:50
 d3f20169-0964-410a-86bf-7e8ed94651e2,lenses.music,available,38.5,38.5,medium,low,6,spaceship,,,29/09/2026 05:38
 cf0702b2-c4d7-43fb-af21-abf0fd48eb3f,noses.music,available,47.98,52.48,medium,low,5,namecheap,,,20/09/2026 03:44
 26210dae-565b-44f5-bba2-c36be0b7f100,spermatic.music,available,47.98,52.48,high,medium,9,namecheap,,,10/09/2026 15:31
 d80ad7e0-06a6-4c03-be07-389b10b4574e,affable.music,available,47.98,52.48,high,low,7,namecheap,,,21/09/2026 21:27
-6118af97-bdcd-49e1-838b-a62b7360025d,bending.music,available,47.98,52.48,high,low,7,namecheap,,,23/09/2026 07:44
+6118af97-bdcd-49e1-838b-a62b7360025d,bending.music,available,47.98,52.48,medium,low,7,namecheap,,,23/09/2026 07:44
 be97d125-33fd-4c4a-9261-6274a142496f,serious.music,premium,908.7,48.1,high,low,7,namecheap,,,24/09/2026 23:04
 8a35bf6e-cbd6-4294-915b-f2c924cd8d62,knapsack.music,available,47.98,52.48,high,low,8,namecheap,,,21/09/2026 14:39
 eb760fda-6324-4a50-9742-c88c8dd590ca,dahna.music,available,47.98,52.48,medium,low,5,namecheap,,,19/09/2026 23:21
 b113b37c-abb1-4adb-9817-2e01aa6ec854,hirschfeld.music,available,47.98,52.48,medium,low,10,namecheap,,,18/09/2026 01:20
 f79e4d17-ab2c-416e-8383-b5cd19ea7924,hastily.music,available,47.98,52.48,medium,low,7,namecheap,,,14/09/2026 23:06
-8aedace8-ee15-4fd4-a9b6-0221b96a6180,bullock.music,premium,723.67,38.5,high,low,7,spaceship,,,29/09/2026 11:48
+8aedace8-ee15-4fd4-a9b6-0221b96a6180,bullock.music,premium,723.67,38.5,medium,low,7,spaceship,,,29/09/2026 11:48
 25d613db-f773-4f82-afcd-f943b933f7f4,mhc.music,premium,723.67,38.5,high,low,3,spaceship,,,29/09/2026 15:02
 8b2ce83e-0e46-459f-be10-b01dde8f7f87,glossy.music,premium,186.25,46.25,high,low,6,name.com,,,11/08/2026 14:10
 45ef265e-9e1d-437d-aa70-257ecdb1519b,armand.music,premium,723.67,38.5,medium,low,6,spaceship,,,28/09/2026 07:26
 5b08b3b6-027c-4597-a146-f251e9dd6398,preemptive.music,available,47.98,52.48,high,medium,10,namecheap,,,09/09/2026 01:06
 ff91f5da-6230-42e0-859d-9de271f2af88,printable.music,available,47.98,52.48,high,low,9,namecheap,,,27/09/2026 05:59
 98df9206-b23d-41ab-94f4-ade31cd1a876,murray.music,premium,908.7,48.1,high,low,6,namecheap,,,25/09/2026 22:54
-0cb39e3d-f35a-4179-83ac-98b913856c12,rang.music,premium,248.75,,high,low,4,name.com,,,
+0cb39e3d-f35a-4179-83ac-98b913856c12,rang.music,premium,248.75,,medium,low,4,name.com,,,
+b04cb1b4-d0a5-47ee-9dd8-421f89e2fa39,grounding.music,available,47.98,52.48,high,low,9,namecheap,,,30/09/2026 17:05
 dff45be9-53e6-4f8e-a633-0edf2aab6f44,urging.music,available,38.5,38.5,medium,low,6,spaceship,,,29/09/2026 07:05
 c78191cb-4b06-40f8-9fbf-1ac00f693ed3,quatern.music,available,47.98,52.48,medium,low,7,namecheap,,,
 a057e2ba-8d3d-4394-a176-7cd84c4a870d,adelaide.music,premium,908.7,48.1,high,low,8,namecheap,,,17/09/2026 07:13
@@ -782,12 +835,13 @@ ee2eb4c6-f587-43b5-b718-0285c8dbb53b,ayah.music,premium,193.7,48.1,high,low,4,na
 0cf498cf-2016-4f60-86f5-e97152b47902,swinging.music,premium,86.25,46.25,high,low,8,name.com,,,23/08/2026 08:43
 ecb89186-2fd8-4d8a-9fef-f69e5dc59f6b,prominence.music,available,47.98,52.48,high,low,10,namecheap,,,24/09/2026 11:05
 c2451ad9-6417-4e68-baad-3f3fd3e7c72b,inferior.music,available,47.98,52.48,high,low,8,namecheap,,,22/08/2026 04:19
+9fff90e6-10ac-467c-9efe-2b4d834381ae,viacom.music,available,39.81,39.81,high,low,6,dynadot,,,30/09/2026 13:49
 7c5306c6-2398-46a6-9941-ad42ab91207e,knee.music,premium,1748.75,46.25,high,low,4,name.com,,,20/09/2026 11:27
 b605a238-f9a7-4e20-bf16-24bf807c0bd2,resolved.music,available,38.62,38.62,high,low,8,porkbun,,,27/09/2026 12:25
 80026bf0-d36e-4af8-8936-70ecda92c790,atreus.music,available,47.98,52.48,medium,low,6,namecheap,,,21/09/2026 00:43
 c7ce0719-10b9-43ce-bff3-7b2750f6831d,gorky.music,available,47.98,52.48,high,low,5,namecheap,,,18/09/2026 05:08
 b30e29bc-6bf5-42b2-b1fe-eae0d975c76c,forthwith.music,available,47.98,52.48,medium,low,9,namecheap,,,10/09/2026 21:39
-90bbe2cf-9866-4f01-975b-3aa69e08d013,pitfall.music,available,52.48,,medium,low,7,namecheap,,,
+90bbe2cf-9866-4f01-975b-3aa69e08d013,pitfall.music,available,47.98,52.48,medium,low,7,namecheap,,,30/09/2026 06:53
 3d94e550-d672-46a1-8577-7cd831d8b8f3,keeping.music,premium,163.9,39.81,high,low,7,dynadot,,,29/09/2026 22:54
 3f3b0944-e738-4908-9030-d44f4d9e5d66,apposition.music,available,47.98,52.48,medium,low,10,namecheap,,,19/09/2026 22:03
 d7c45486-bede-44fa-a304-fd68739e0e9d,factual.music,available,47.98,52.48,high,low,7,namecheap,,,17/08/2026 20:31
@@ -797,35 +851,38 @@ ae3656b3-89b7-4dd0-a4ba-751aa5486eeb,utility.music,available,47.98,52.48,high,lo
 2a2ef97f-5a91-4552-969c-69c808377f2e,greene.music,premium,908.7,48.1,high,low,6,namecheap,,,25/09/2026 06:41
 13071d6e-6db9-44e1-abe5-3bf3b878a2f0,lyrically.music,available,47.98,52.48,high,low,9,namecheap,,,15/09/2026 13:16
 14d6e662-743b-4f55-afa4-8fd83c845e3c,ampoule.music,available,47.98,52.48,medium,low,7,namecheap,,,18/09/2026 23:49
-5ad3837c-b21c-49d4-bb79-eb60be9bc891,veal.music,available,52.48,,medium,low,4,namecheap,,,
+5ad3837c-b21c-49d4-bb79-eb60be9bc891,veal.music,available,38.5,38.5,medium,low,4,spaceship,,,30/09/2026 14:19
 b2b8003c-c56a-4433-b9fe-799f58d437b0,tosh.music,available,47.98,52.48,medium,low,4,namecheap,,,21/09/2026 23:54
 684beb10-bfb0-4199-a784-bea90129e3f8,dionysian.music,available,47.98,52.48,medium,low,9,namecheap,,,14/08/2026 08:24
 f3155ef5-eec4-4dcd-9c98-55f273efe20b,werewolves.music,available,47.98,52.48,low,low,10,namecheap,,,19/09/2026 01:01
 6f1e2bdc-4346-4f4e-887b-17987f49ac77,bifurcate.music,available,47.98,52.48,high,low,9,namecheap,,,09/08/2026 20:08
 ea1533b5-cb03-4ad3-8ee2-a1cb83e5537a,mileage.music,available,38.5,38.5,high,low,7,spaceship,,,29/09/2026 12:25
 d2aa2715-aaa7-4524-8c03-6d1039670d79,trench.music,premium,723.67,38.5,medium,low,6,spaceship,,,28/09/2026 20:01
+8da29057-d311-4154-90ba-6b77f3487398,hustler.music,available,38.5,38.5,medium,low,7,spaceship,,,30/09/2026 17:21
 34bb3179-e9ac-48dd-b836-8a835ee69289,tricuspid.music,available,47.98,52.48,medium,low,9,namecheap,,,11/09/2026 19:29
 608fe892-04ca-4cf5-94c6-cce8066cca3c,dorothea.music,premium,163.18,40.92,medium,low,8,porkbun,,,28/09/2026 07:54
 d4d5b177-5fc6-4663-ad4d-d9b0f92fee97,monatomic.music,available,47.98,52.48,medium,low,9,namecheap,,,25/08/2026 04:12
 498a1d2d-b0ca-44df-ad3f-1aae832cc198,hackneyed.music,available,47.98,52.48,medium,low,9,namecheap,,,08/08/2026 10:56
-4c86ba62-96e4-4490-929f-2ac15b806a53,patriotism.music,available,52.48,,high,low,10,namecheap,,,
+4c86ba62-96e4-4490-929f-2ac15b806a53,patriotism.music,available,38.5,38.5,high,low,10,spaceship,,,30/09/2026 05:24
 6a27c163-01da-48dd-b6cf-9db69d7bc180,yeast.music,available,47.98,52.48,high,low,5,namecheap,,,22/09/2026 06:34
 02d368ad-b815-4cd9-a663-2e739ec28188,zoo.music,available,,,high,low,3,,,,26/09/2026 00:33
 d62314e8-70d0-44b8-a73f-acd5b88cedac,fumbling.music,available,47.98,52.48,medium,low,8,namecheap,,,11/08/2026 10:05
 00702da6-fda0-4f51-9870-8bad340f9686,repelling.music,available,47.98,52.48,medium,low,9,namecheap,,,14/08/2026 10:43
 fa8e03d0-a971-4ee5-a0da-ac1265f9f1ec,bain.music,premium,723.67,38.5,high,low,4,spaceship,,,28/09/2026 07:18
+06d46ac9-5437-454a-bc95-a56d26a86f28,maintains.music,available,38.5,38.5,medium,low,9,spaceship,,,30/09/2026 07:23
 1f793721-d140-46db-af0e-ca2c4357c159,suited.music,available,47.98,52.48,high,low,6,namecheap,,,11/09/2026 01:21
 b8b02883-0230-421c-b551-817e13f59c41,aristocrat.music,available,47.98,52.48,high,low,10,namecheap,,,20/09/2026 05:51
 c98a5823-dbcd-4c10-9328-5ee40250e097,usgs.music,available,38.5,38.5,medium,low,4,spaceship,,,28/09/2026 03:54
-2725a844-b846-44eb-a4fa-bf7bd34cbffa,addendum.music,available,47.98,52.48,high,low,8,namecheap,,,17/09/2026 06:41
+2725a844-b846-44eb-a4fa-bf7bd34cbffa,addendum.music,available,47.98,52.48,medium,low,8,namecheap,,,17/09/2026 06:41
 0f50174d-1954-493f-8293-0cd3f6d3f99b,desiccated.music,available,47.98,52.48,medium,low,10,namecheap,,,14/08/2026 03:33
 cc6816fa-8243-4c01-a949-ca7f1913f674,allmouth.music,available,47.98,52.48,medium,low,8,namecheap,,,18/09/2026 11:45
 eaf8e1d7-76f6-4c2c-a339-8e9a1ce352cc,examiner.music,available,38.5,38.5,medium,low,8,spaceship,,,28/09/2026 14:05
 83df52c5-e43f-447c-b26c-e1e2abb5d106,sinkable.music,available,47.98,52.48,high,medium,8,namecheap,,,10/09/2026 08:30
 28646fd4-6a34-4298-8ead-dce43a0afacb,downwards.music,available,47.98,52.48,medium,low,9,namecheap,,,14/08/2026 17:16
 d67aab48-8b80-4c13-aafa-d1b98b643324,annexa.music,available,74.99,74.99,medium,low,6,name.com,,,17/09/2026 09:06
-1822376a-1f6f-45ad-a668-9a72a5de286b,futurity.music,available,47.98,52.48,high,low,8,namecheap,,,18/08/2026 19:11
+1822376a-1f6f-45ad-a668-9a72a5de286b,futurity.music,available,47.98,52.48,medium,low,8,namecheap,,,18/08/2026 19:11
 11f8050b-c71f-47d1-9271-3777a473d2cb,colloquial.music,available,47.98,52.48,medium,low,10,namecheap,,,12/08/2026 17:14
+ff339941-e504-49f2-885b-2c5f28928233,sallie.music,available,38.62,38.62,medium,low,6,porkbun,,,30/09/2026 21:12
 f0fa4ae5-77a4-4a7e-9f48-178e0fc99c1f,comfortably.music,available,52.48,,high,low,11,namecheap,,,
 64521b02-2073-4f05-a982-95c89c731b19,successful.music,available,47.98,52.48,high,low,10,namecheap,,,28/09/2026 01:49
 c027323f-85dd-4d7f-818d-8229be0d0e44,farmers.music,premium,388.7,48.1,high,medium,7,namecheap,,,18/09/2026 07:06
@@ -834,17 +891,16 @@ f2c7f84d-a9ae-49ba-9c5d-ab326348eecf,distaff.music,available,47.98,52.48,medium,
 15533d4d-ff48-441f-b872-e7f033580db4,foley.music,premium,908.7,48.1,high,low,5,namecheap,,,25/09/2026 21:40
 529bb600-f3a3-4a12-8844-a536c0cd44d6,colorise.music,available,47.98,52.48,medium,low,8,namecheap,,,12/08/2026 17:36
 72a4734a-0497-431a-a5a1-e328d51557fd,collector.music,premium,388.7,48.1,high,low,9,namecheap,,,16/09/2026 23:18
+8edacbf6-a917-41ff-8da7-6faa24f46cd2,bologna.music,premium,908.7,48.1,high,low,7,namecheap,,,30/09/2026 16:29
 edbbd53b-3902-4fa1-b42b-59883f3175c2,situations.music,available,47.98,52.48,medium,low,10,namecheap,,,28/09/2026 04:50
 3f4116e9-bbea-4779-a356-fed3682aede4,overweight.music,available,47.98,52.48,high,low,10,namecheap,,,18/08/2026 08:04
 ca4c75bb-9236-450b-9468-5ffe456a9e1b,attenuate.music,available,47.98,52.48,medium,low,9,namecheap,,,07/08/2026 15:21
-1cdbec0d-af11-435c-b78a-2fe586ed7b04,mosque.music,available,,,high,low,6,,,,
 99cacc8b-5236-429b-b64d-1f6c38bc68b7,mandela.music,premium,71.62,38.5,high,low,7,spaceship,,,28/09/2026 14:49
-19949e41-95b5-4b28-9710-c829b8de946b,zanzibar.music,available,,,high,low,8,,,,
+1b4f142f-7460-4492-b56b-a0e3bf75b626,burgers.music,premium,193.7,48.1,medium,low,7,namecheap,,,30/09/2026 07:46
 34b196e1-d150-46eb-86dc-9ee345620234,whacking.music,available,47.98,52.48,medium,low,8,namecheap,,,13/09/2026 11:09
 cd3aae17-82c2-464a-b9b5-92bfc09f7be9,unbiased.music,available,47.98,52.48,high,low,8,namecheap,,,12/09/2026 01:52
 7ed0c472-5e11-40a4-956e-f712f111c19e,spectacled.music,available,47.98,52.48,medium,low,10,namecheap,,,09/08/2026 17:20
 1a09cc4c-51ae-4277-88ec-708e00dff0ed,auxin.music,available,47.98,52.48,medium,low,5,namecheap,,,21/09/2026 08:33
-c3b930f7-9fd3-4936-b034-c400e1e2e7f6,los.music,available,,,high,low,3,,,,
 9752cec2-acdb-4873-b292-f038383cd4be,narayan.music,premium,2728.58,40.92,medium,low,7,porkbun,,,29/09/2026 15:24
 d3040542-fd47-45fa-bd98-5d85e447d369,eunice.music,premium,2586.67,38.5,medium,low,6,spaceship,,,29/09/2026 03:57
 783b4ce0-472e-4aac-82e9-fc1f93051103,wonderland.music,available,38.5,38.5,high,low,10,spaceship,,,29/09/2026 14:10
@@ -853,9 +909,10 @@ a3c7fab7-e20b-49c5-b2f4-7b37005a1bd0,laputan.music,available,47.98,52.48,medium,
 4581f951-348c-422b-9e16-49f5e703d7f2,bookstore.music,premium,3248.7,48.1,high,low,9,namecheap,,,24/09/2026 07:17
 4443db7f-f779-4d7f-8011-0da2349589bb,rollercoaster.music,available,52.48,,medium,low,14,namecheap,,,
 5b4edbf9-a3d1-4bb0-ac70-770523524987,configured.music,available,47.98,52.48,high,low,10,namecheap,,,12/08/2026 20:47
-2e1d9dc9-5763-44dd-ae00-c2e3f3a7c58b,hampstead.music,available,38.5,38.5,high,low,9,spaceship,,,29/09/2026 03:36
+2e1d9dc9-5763-44dd-ae00-c2e3f3a7c58b,hampstead.music,available,38.5,38.5,medium,low,9,spaceship,,,29/09/2026 03:36
+012e729e-f153-42a5-b3f6-e881a2de08a9,screamed.music,available,38.5,38.5,medium,low,8,spaceship,,,30/09/2026 07:12
 f214542a-e181-42be-bd82-79aecb2c985b,beings.music,available,47.98,52.48,medium,low,6,namecheap,,,27/09/2026 02:57
-085c8e81-40b0-4b86-8f41-1a79e1baaeaf,stopping.music,available,52.48,,high,low,8,namecheap,,,
+085c8e81-40b0-4b86-8f41-1a79e1baaeaf,stopping.music,available,38.5,38.5,high,low,8,spaceship,,,30/09/2026 12:09
 75361a56-29c0-4610-a647-695110bd222b,mercuric.music,available,47.98,52.48,medium,low,8,namecheap,,,24/08/2026 20:40
 2e3ccc07-eb8d-4a8d-9e75-677e556f0eb8,footle.music,available,47.98,52.48,medium,low,6,namecheap,,,11/09/2026 08:27
 0c98a94f-cb05-4e4a-ac28-575bfacf0245,unassigned.music,available,47.98,52.48,medium,low,10,namecheap,,,12/09/2026 01:12
@@ -893,7 +950,7 @@ ca16c174-0134-4037-8a11-5aa8269485f4,downstream.music,available,47.98,52.48,high
 dc36f942-12c9-4062-bd56-27b23f0f9e1f,equid.music,available,47.98,52.48,medium,low,5,namecheap,,,17/08/2026 11:47
 4de4c94d-6f9e-4b58-af4a-ece89fbb8342,forbidding.music,available,47.98,52.48,medium,low,10,namecheap,,,18/08/2026 11:08
 ac63fb45-1ad4-43ce-8e74-022b060cf5b4,thomson.music,premium,908.7,48.1,high,medium,7,namecheap,,,25/09/2026 05:24
-bca58e83-7397-42ec-bc36-c8949ad8d51c,caledonia.music,available,47.98,52.48,high,low,9,namecheap,,,27/09/2026 03:27
+bca58e83-7397-42ec-bc36-c8949ad8d51c,caledonia.music,available,47.98,52.48,medium,low,9,namecheap,,,27/09/2026 03:27
 f537a902-f8db-41ef-9ada-979bcd434e34,marvell.music,available,47.98,52.48,high,low,7,namecheap,,,19/09/2026 04:47
 bf843638-5979-477c-b4bd-4e8148f3c839,concealing.music,available,47.98,52.48,high,low,10,namecheap,,,12/08/2026 19:52
 7c6dc773-6fe0-4957-b86b-cddaaef6f0d7,furrowed.music,available,47.98,52.48,medium,low,8,namecheap,,,18/08/2026 18:55
@@ -907,7 +964,7 @@ cd4582dd-e4a7-4608-a9c4-e4a17319a9df,labeled.music,available,47.98,52.48,high,lo
 4457b2ba-6f96-4c3a-8329-9c7f1c4f0fc1,chewing.music,available,47.98,52.48,high,low,7,namecheap,,,24/09/2026 14:24
 9c3cc4f3-cca9-4099-b057-748a1f6139b5,acetabular.music,available,47.98,52.48,medium,low,10,namecheap,,,
 e6435a01-1124-428e-854c-a448324de680,jules.music,premium,1818.7,48.1,high,low,5,namecheap,,,25/09/2026 15:01
-bc26a0c7-ffa0-40c8-932e-c89f8d7a15e8,although.music,available,52.48,,medium,low,8,namecheap,,,
+bc26a0c7-ffa0-40c8-932e-c89f8d7a15e8,although.music,available,47.98,52.48,medium,low,8,namecheap,,,30/09/2026 22:29
 cbb6c96d-fee1-45da-94e8-b19c004861b5,arjuna.music,available,47.98,52.48,high,low,6,namecheap,,,20/09/2026 06:08
 13fdc41b-9357-4f23-8be9-febd3f0ce6ca,advisedly.music,available,47.98,52.48,medium,low,9,namecheap,,,13/09/2026 17:38
 e30a30c1-4bd6-430c-b88e-35b0a588ea5e,underfoot.music,available,47.98,52.48,medium,low,9,namecheap,,,16/09/2026 09:56
@@ -925,15 +982,15 @@ ef2372bf-4083-4e9a-a2d0-ff894c7072ee,impious.music,available,47.98,52.48,medium,
 2fade7da-d0f2-4719-ba02-4c9bdf6cf1c4,beefburger.music,available,47.98,52.48,medium,low,10,namecheap,,,23/09/2026 01:04
 781f7327-da8a-4332-8f11-a17f89750052,burbling.music,available,47.98,52.48,high,low,8,namecheap,,,11/08/2026 10:10
 3b243e3c-92ac-451f-ad1b-118d64d22f97,malamute.music,available,47.98,52.48,medium,low,8,namecheap,,,18/09/2026 02:06
-67b98ec3-1d3b-48eb-9cef-c092a0dd34d5,cleft.music,available,47.98,52.48,high,low,5,namecheap,,,12/08/2026 10:39
+67b98ec3-1d3b-48eb-9cef-c092a0dd34d5,cleft.music,available,47.98,52.48,medium,low,5,namecheap,,,12/08/2026 10:39
 fb168a0b-abcf-4136-9395-12b8b785645e,banging.music,available,47.98,52.48,high,low,7,namecheap,,,08/08/2026 13:03
 e873522e-9afa-40cf-8098-de6b6c528ceb,owing.music,available,52.48,,medium,low,5,namecheap,,,
 cf2174da-8254-4961-9b14-6c847e28d783,aluminate.music,available,47.98,52.48,medium,low,9,namecheap,,,18/09/2026 15:13
 49a935dd-8c1a-49f2-802e-5d5e9034856d,trevor.music,premium,908.7,48.1,high,low,6,namecheap,,,26/09/2026 03:30
 fdd7a812-06fa-4539-8c96-090126c372fc,vaguely.music,available,47.98,52.48,medium,low,7,namecheap,,,16/09/2026 10:34
 92284aa9-f612-4964-92b3-af8e1bd915b6,obliging.music,available,47.98,52.48,high,low,8,namecheap,,,12/08/2026 19:27
-d1a38e29-de1e-4adf-b3b9-b708a4dc4b90,summery.music,available,47.98,52.48,high,low,7,namecheap,,,11/09/2026 01:38
-88a80831-7076-46b6-8e6e-f6b7a095b39d,quibble.music,available,47.98,52.48,high,low,7,namecheap,,,23/09/2026 13:17
+d1a38e29-de1e-4adf-b3b9-b708a4dc4b90,summery.music,available,47.98,52.48,medium,low,7,namecheap,,,11/09/2026 01:38
+88a80831-7076-46b6-8e6e-f6b7a095b39d,quibble.music,available,47.98,52.48,medium,low,7,namecheap,,,23/09/2026 13:17
 4496faf5-6c11-4fa4-baf8-e219a527dfc0,unshaded.music,available,47.98,52.48,medium,low,8,namecheap,,,12/09/2026 19:27
 ed00a42f-6bbe-48fc-b8c9-3dd0845a9648,useable.music,available,47.98,52.48,medium,low,7,namecheap,,,12/09/2026 23:57
 30957559-0935-44aa-b401-46661e8478d9,readably.music,available,47.98,52.48,medium,low,8,namecheap,,,14/09/2026 11:08
@@ -942,60 +999,3 @@ ed00a42f-6bbe-48fc-b8c9-3dd0845a9648,useable.music,available,47.98,52.48,medium,
 bd508f80-332d-4842-9a40-d52dfed59d76,amarelle.music,available,47.98,52.48,medium,low,8,namecheap,,,18/09/2026 15:55
 e9009e2b-a743-4f9b-965d-01d144264138,arouet.music,available,47.98,52.48,medium,low,6,namecheap,,,20/09/2026 08:30
 711c5354-a93c-4785-bb5f-57a26a0aa5db,aorist.music,available,74.99,74.99,medium,low,6,name.com,,,19/09/2026 16:03
-c7209c4d-a194-48de-88d2-763ace0cd252,antabuse.music,available,47.98,52.48,medium,low,8,namecheap,,,19/09/2026 12:24
-712efc07-ec7a-4922-b3f4-a907c7a6bcf9,megabucks.music,available,74.99,74.99,high,low,9,name.com,,,23/09/2026 14:11
-7ec25071-e7e6-4b87-9ea8-406fcb88e637,enlist.music,available,47.98,52.48,high,low,6,namecheap,,,29/09/2026 20:42
-12fd7a31-5a19-4a19-afbe-9e9df5c2e6e7,reddened.music,available,47.98,52.48,high,medium,8,namecheap,,,09/09/2026 12:10
-822f8c68-f0cd-469b-bcab-0615d511f148,emerge.music,premium,163.9,39.81,high,low,6,dynadot,,,29/09/2026 06:43
-8a2132ba-f21d-4497-a0dd-c17e0041ed8b,gloved.music,available,47.98,52.48,high,low,6,namecheap,,,20/08/2026 14:52
-8276b541-64e2-4970-b025-b74ed8963dee,aconitum.music,available,47.98,52.48,medium,low,8,namecheap,,,17/09/2026 02:06
-aaa8b10d-221d-4a15-9f52-7e914865ce97,worked.music,available,52.48,,high,low,6,namecheap,,,
-6c1c967a-fa26-4a9c-90c2-ac77ac1624c8,indistinct.music,available,47.98,52.48,medium,low,10,namecheap,,,22/08/2026 03:14
-533c9e80-f702-485e-afdb-f86528c91b34,cadaverous.music,available,47.98,52.48,medium,low,10,namecheap,,,10/08/2026 18:51
-e9ba34f2-e1b3-4972-97be-788f62816449,vicki.music,premium,723.67,38.5,medium,low,5,spaceship,,,29/09/2026 04:00
-f021382e-2a47-47ca-9977-7b99f7def0c4,brewery.music,available,47.98,52.48,high,low,7,namecheap,,,28/09/2026 18:30
-e57ee82d-8b57-4423-96f4-60a19b246be7,opportunity.music,available,47.98,52.48,high,low,11,namecheap,,,27/09/2026 02:17
-ed7ac1d7-3d40-4818-80bd-910b691dae30,description.music,available,,,high,low,11,,,,
-6f2f9dd7-0a2c-4dcd-8b9e-dd80ebf01c69,depraved.music,available,47.98,52.48,medium,low,8,namecheap,,,14/08/2026 02:29
-d04ee590-c8c5-4c63-93c0-cc4e8763012c,stingy.music,available,47.98,52.48,medium,low,6,namecheap,,,24/08/2026 18:08
-c4811c22-0dcb-48c8-912f-b9a309f42613,beano.music,available,47.98,52.48,high,low,5,namecheap,,,22/09/2026 20:40
-10ec9277-d13f-4877-ac5e-aa95a92173b3,humoral.music,available,47.98,52.48,medium,low,7,namecheap,,,21/08/2026 15:21
-3c3a877f-4503-4f5e-885b-2c327bad42fa,drenched.music,premium,186.25,46.25,high,low,8,name.com,,,14/08/2026 18:51
-6c24d152-929c-4fca-b314-c049661bca62,shipping.music,premium,1818.7,48.1,high,low,8,namecheap,,,28/09/2026 08:55
-0762ab97-63bf-4240-b7a0-599d485caf12,masoud.music,premium,908.7,48.1,medium,low,6,namecheap,,,17/09/2026 20:25
-715bb525-b3c7-4a73-8be4-ae96ba4ed479,calhoun.music,premium,908.7,48.1,medium,low,7,namecheap,,,27/09/2026 03:19
-4b57b036-386c-497a-8d08-4f04d0547e58,some.music,premium,908.7,48.1,high,low,4,namecheap,,,19/09/2026 12:35
-514a5f2c-adbd-450c-85ac-027f383f15af,excites.music,available,47.98,52.48,medium,low,7,namecheap,,,20/09/2026 13:19
-56d238e0-b784-43d7-bc2a-15a5ee1391e3,backseat.music,available,47.98,52.48,high,low,8,namecheap,,,21/09/2026 15:49
-b420cf46-9796-4106-8d6d-d120b0cb477b,constable.music,premium,186.25,46.25,high,low,9,name.com,,,24/09/2026 17:31
-9120c615-e67d-421a-8705-43199d9d2faa,stalked.music,available,47.98,52.48,medium,low,7,namecheap,,,08/09/2026 13:33
-7dd0c56c-b587-40ae-93b9-4ba668e6d342,handling.music,available,47.98,52.48,high,low,8,namecheap,,,25/09/2026 23:04
-8128ad04-9bbb-4d99-b2a1-17a59355209b,nourish.music,premium,388.7,48.1,high,low,7,namecheap,,,18/09/2026 07:58
-a0871ac6-e129-41ae-aaeb-99278509976e,rounding.music,available,38.62,38.62,high,low,8,porkbun,,,29/09/2026 13:53
-b4ff6c7d-01db-485c-aaf7-30b8eef29fb4,crinkly.music,available,47.98,52.48,medium,low,7,namecheap,,,13/08/2026 06:51
-87de3884-999a-42bd-b3b6-33d050402026,cocker.music,premium,908.7,48.1,medium,low,6,namecheap,,,21/09/2026 13:01
-a9eadaaf-93d3-44c0-abfb-542a2fa9b658,runny.music,available,47.98,52.48,medium,low,5,namecheap,,,09/09/2026 19:37
-b6ac08db-9c2f-4397-aa49-2d3524a1c163,simpleness.music,available,74.99,74.99,medium,low,10,name.com,,,24/09/2026 13:51
-03f55f89-0242-4245-9165-4e270e3615f1,peeled.music,available,47.98,52.48,medium,low,6,namecheap,,,08/08/2026 18:24
-f669efe1-c00d-41f3-b475-12a97dae29fd,wayfaring.music,available,47.98,52.48,medium,low,9,namecheap,,,13/09/2026 08:47
-21a05325-6986-454e-9582-fe6e2dc4fbbf,prompter.music,available,47.98,52.48,high,low,8,namecheap,,,21/09/2026 06:13
-6e0cd650-e600-4ff0-8439-26b7e9571473,lutheran.music,available,47.98,52.48,high,low,8,namecheap,,,24/08/2026 12:23
-52ab7a79-5b02-48f8-baac-5c52a4e89835,arcsec.music,available,,,medium,low,6,,,,20/09/2026 01:25
-1a0d4c4b-fb31-47e5-bbf2-baa9da7a59cb,squashy.music,available,47.98,52.48,medium,low,7,namecheap,,,10/08/2026 17:16
-db7dde0d-4c8a-4521-b6bc-f4b467702073,sinuate.music,available,47.98,52.48,high,low,7,namecheap,,,10/09/2026 08:36
-a351074a-8b63-483f-97e0-b8dabcbf037d,colleagues.music,available,47.98,52.48,medium,low,10,namecheap,,,18/09/2026 23:15
-7364c62c-0e06-46e9-b53b-018cd472989f,aerogramme.music,available,47.98,52.48,medium,low,10,namecheap,,,17/09/2026 13:05
-7d9e3ce4-0452-44ce-b72e-0799245cd53e,affidavit.music,available,47.98,52.48,high,low,9,namecheap,,,28/09/2026 19:16
-212c5fb9-cffb-4791-8851-47d91044cb63,marketable.music,available,47.98,52.48,high,low,10,namecheap,,,24/08/2026 16:04
-fe993129-b377-4a2f-b1df-20ad8803dcc5,bountied.music,available,47.98,52.48,high,medium,8,namecheap,,,10/08/2026 22:40
-9a44849b-e2d7-481b-b8e1-0b028ef5589b,abercrombie.music,available,39.81,39.81,high,medium,11,dynadot,,,29/09/2026 22:37
-d7efb1ef-5fde-4eed-9279-43594c67214a,intended.music,available,47.98,52.48,high,low,8,namecheap,,,25/09/2026 09:53
-0b261e61-d9e1-4379-a56b-c822a0ef5043,cynical.music,available,74.99,74.99,high,low,7,name.com,,,13/08/2026 13:59
-91564ba3-5a30-4e84-aaed-b0fe93ef02b5,ignorance.music,available,38.5,38.5,medium,low,9,spaceship,,,28/09/2026 10:08
-d516eeab-889d-4d19-84aa-4f0ffff92b0f,happier.music,available,47.98,52.48,high,low,7,namecheap,,,18/09/2026 06:17
-61a17800-93ef-4605-8ffa-c6652f2d45b8,mannish.music,available,47.98,52.48,medium,low,7,namecheap,,,24/08/2026 15:22
-d6edcecf-eee6-4a92-8027-5539b37f775b,tally.music,available,39.81,39.81,high,medium,5,dynadot,,,28/09/2026 18:48
-b2fd1b79-7a56-41e7-9e22-94fdc1c0d870,debacle.music,available,47.98,52.48,medium,low,7,namecheap,,,13/09/2026 07:56
-7fcdf80f-bd84-496c-aa60-44847101cefa,sparely.music,available,47.98,52.48,medium,low,7,namecheap,,,16/09/2026 05:49
-a0f98330-aec6-462a-853c-4d7799d8156f,windup.music,available,47.98,52.48,high,low,6,namecheap,,,13/09/2026 12:18
-263c5a65-27c8-45dd-8165-e2da36309b88,script.music,available,,,high,low,6,,,,
