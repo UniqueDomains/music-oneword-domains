@@ -1,10 +1,10 @@
-# Available .MUSIC One-Word Domains (23,902)
+# Available .MUSIC One-Word Domains (25,519)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-23%2C902%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-25%2C519%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .music one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **23,902 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **25,519 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 23,902 domains · **Median ask:** $193.41 · **High-demand under $2,500:** 26
+**Public extract:** 1,000 rows · **Live catalog:** 25,519 domains · **Median ask:** $196.06 · **High-demand under $2,500:** 31
 
-**Last updated:** 2026-10-02
+**Last updated:** 2026-10-03
 **Canonical page:** `https://unique.domains/domains/tld/music`
 **Best for:** founders, investors, studios
 
@@ -67,23 +67,23 @@ print(df.head())
 | beet.music | available | $47.98    | $52.48        | high           | low    | 4      | namecheap |
 | bjp.music  | premium   | $1,448.17 | $38.50        | high           | low    | 3      | spaceship |
 | came.music | available | $38.50    | $38.50        | high           | low    | 4      | spaceship |
-| caa.music  | premium   | $723.67   | $38.50        | high           | low    | 3      | spaceship |
+| bsp.music  | premium   | $723.67   | $38.50        | high           | low    | 3      | spaceship |
 | dues.music | available | $74.99    | $74.99        | high           | low    | 4      | name.com  |
-| cca.music  | premium   | $1,818.70 | $48.10        | high           | low    | 3      | namecheap |
+| caa.music  | premium   | $723.67   | $38.50        | high           | low    | 3      | spaceship |
 | fema.music | available | $39.81    | $39.81        | medium         | low    | 4      | dynadot   |
-| csa.music  | premium   | $723.67   | $38.50        | high           | low    | 3      | spaceship |
+| cca.music  | premium   | $1,818.70 | $48.10        | high           | low    | 3      | namecheap |
 | gums.music | available | $38.50    | $38.50        | medium         | low    | 4      | spaceship |
 | ecc.music  | premium   | $763.59   | $40.92        | high           | low    | 3      | porkbun   |
 | icky.music | available | $47.98    | $52.48        | medium         | low    | 4      | namecheap |
-| gip.music  | premium   | $1,818.70 | $48.10        | medium         | low    | 3      | namecheap |
+| eck.music  | premium   | $1,448.17 | $38.50        | medium         | low    | 3      | spaceship |
 | oclc.music | available | $38.50    | $38.50        | medium         | low    | 4      | spaceship |
-| gpo.music  | premium   | $723.67   | $38.50        | high           | low    | 3      | spaceship |
+| gip.music  | premium   | $1,818.70 | $48.10        | medium         | low    | 3      | namecheap |
 | opel.music | available | $38.50    | $38.50        | high           | medium | 4      | spaceship |
-| iit.music  | premium   | $908.70   | $48.10        | high           | low    | 3      | namecheap |
-| osha.music | available | $38.50    | $38.50        | high           | low    | 4      | spaceship |
-| ioc.music  | premium   | $763.59   | $40.92        | high           | low    | 3      | porkbun   |
+| gpo.music  | premium   | $723.67   | $38.50        | high           | low    | 3      | spaceship |
 | owes.music | available | $38.50    | $38.50        | medium         | low    | 4      | spaceship |
-| mhc.music  | premium   | $723.67   | $38.50        | high           | low    | 3      | spaceship |
+| iit.music  | premium   | $908.70   | $48.10        | high           | low    | 3      | namecheap |
+| pith.music | available | $47.98    | $52.48        | high           | low    | 4      | namecheap |
+| ioc.music  | premium   | $763.59   | $40.92        | high           | low    | 3      | porkbun   |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 23,902 live domains                        |
+| 1,000-row public sample | 25,519 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 26 high-demand names under $2,500          |
+| Basic exported fields   | 31 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .MUSIC One-Word Domains*. Version 2026-10-02. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .MUSIC One-Word Domains*. Version 2026-10-03. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
